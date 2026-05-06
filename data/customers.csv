@@ -1,0 +1,1001 @@
+customer_id,registration_date,country,acquisition_channel
+C0001,2022-07-03,Germany,Mobile App
+C0002,2022-07-28,Germany,Website
+C0003,2022-04-13,Austria,Email Campaign
+C0004,2022-08-02,Germany,Email Campaign
+C0005,2021-02-10,Germany,Website
+C0006,2023-10-05,Germany,Website
+C0007,2022-12-14,Germany,Mobile App
+C0008,2021-01-28,Germany,Website
+C0009,2022-11-23,Germany,Website
+C0010,2023-04-06,Germany,Email Campaign
+C0011,2022-06-17,Switzerland,Website
+C0012,2022-10-09,Germany,Mobile App
+C0013,2023-07-08,Germany,Mobile App
+C0014,2021-06-19,Switzerland,Mobile App
+C0015,2023-06-29,Germany,Mobile App
+C0016,2022-09-24,Germany,Website
+C0017,2023-06-06,Germany,Email Campaign
+C0018,2021-05-02,Germany,Website
+C0019,2023-04-28,Germany,Website
+C0020,2023-03-29,Germany,Email Campaign
+C0021,2023-08-09,Germany,Website
+C0022,2022-07-13,Germany,Email Campaign
+C0023,2021-04-09,Austria,Mobile App
+C0024,2023-02-22,Germany,Website
+C0025,2023-11-06,Germany,Website
+C0026,2021-02-20,Germany,Website
+C0027,2021-11-29,Germany,Website
+C0028,2023-04-05,Germany,Email Campaign
+C0029,2021-03-06,Germany,Mobile App
+C0030,2021-04-11,Germany,Mobile App
+C0031,2023-05-22,Germany,Website
+C0032,2023-05-28,Germany,Website
+C0033,2021-12-10,Germany,Website
+C0034,2023-12-01,Germany,Website
+C0035,2023-02-06,Germany,Website
+C0036,2023-11-16,Germany,Website
+C0037,2021-04-22,Germany,Website
+C0038,2021-04-02,Germany,Mobile App
+C0039,2022-07-30,Germany,Mobile App
+C0040,2023-06-09,Germany,Mobile App
+C0041,2023-01-31,Germany,Website
+C0042,2022-08-12,Germany,Email Campaign
+C0043,2021-10-17,Switzerland,Mobile App
+C0044,2021-07-31,Austria,Email Campaign
+C0045,2022-06-02,Switzerland,Website
+C0046,2021-04-11,Switzerland,Website
+C0047,2022-04-07,Switzerland,Website
+C0048,2022-04-22,Austria,Mobile App
+C0049,2023-10-26,Switzerland,Website
+C0050,2023-07-11,Germany,Website
+C0051,2023-02-16,Germany,Website
+C0052,2023-04-23,Switzerland,Mobile App
+C0053,2023-06-15,Germany,Website
+C0054,2022-12-29,Germany,Mobile App
+C0055,2021-10-06,Germany,Website
+C0056,2021-03-07,Switzerland,Mobile App
+C0057,2021-08-31,Germany,Mobile App
+C0058,2021-07-09,Germany,Website
+C0059,2022-05-01,Germany,Website
+C0060,2022-02-08,Germany,Mobile App
+C0061,2022-05-06,Germany,Mobile App
+C0062,2021-03-28,Germany,Mobile App
+C0063,2021-09-17,Switzerland,Email Campaign
+C0064,2021-09-03,Germany,Website
+C0065,2021-10-18,Germany,Email Campaign
+C0066,2022-03-09,Germany,Website
+C0067,2023-05-05,Germany,Mobile App
+C0068,2021-11-26,Germany,Mobile App
+C0069,2023-08-24,Germany,Email Campaign
+C0070,2023-08-08,Switzerland,Website
+C0071,2023-04-01,Germany,Mobile App
+C0072,2023-03-16,Germany,Mobile App
+C0073,2021-12-30,Germany,Mobile App
+C0074,2021-01-10,Germany,Email Campaign
+C0075,2021-10-22,Germany,Mobile App
+C0076,2022-03-27,Germany,Website
+C0077,2021-05-17,Germany,Email Campaign
+C0078,2023-11-22,Germany,Website
+C0079,2023-02-01,Austria,Website
+C0080,2023-06-28,Austria,Website
+C0081,2023-04-22,Germany,Website
+C0082,2023-03-18,Germany,Mobile App
+C0083,2022-06-15,Germany,Email Campaign
+C0084,2022-06-28,Germany,Mobile App
+C0085,2023-06-06,Germany,Website
+C0086,2021-09-29,Switzerland,Mobile App
+C0087,2023-07-09,Germany,Mobile App
+C0088,2021-03-21,Germany,Email Campaign
+C0089,2022-02-10,Germany,Website
+C0090,2022-08-19,Germany,Website
+C0091,2021-06-22,Switzerland,Website
+C0092,2022-10-28,Austria,Mobile App
+C0093,2023-05-19,Germany,Email Campaign
+C0094,2022-03-14,Germany,Mobile App
+C0095,2022-01-24,Germany,Mobile App
+C0096,2021-07-06,Germany,Email Campaign
+C0097,2021-02-10,Germany,Mobile App
+C0098,2022-09-22,Germany,Website
+C0099,2022-08-27,Germany,Website
+C0100,2023-02-07,Germany,Website
+C0101,2021-05-31,Germany,Website
+C0102,2021-02-27,Germany,Mobile App
+C0103,2023-05-24,Austria,Email Campaign
+C0104,2023-07-16,Germany,Website
+C0105,2022-12-13,Germany,Website
+C0106,2021-07-27,Austria,Email Campaign
+C0107,2021-07-20,Germany,Website
+C0108,2023-05-07,Germany,Website
+C0109,2021-12-04,Austria,Website
+C0110,2021-10-10,Germany,Website
+C0111,2021-09-28,Germany,Email Campaign
+C0112,2021-07-06,Switzerland,Website
+C0113,2023-10-14,Switzerland,Website
+C0114,2022-04-29,Austria,Email Campaign
+C0115,2021-06-11,Germany,Email Campaign
+C0116,2023-10-22,Switzerland,Website
+C0117,2021-09-28,Germany,Website
+C0118,2022-06-06,Switzerland,Website
+C0119,2021-12-15,Germany,Mobile App
+C0120,2023-03-25,Austria,Mobile App
+C0121,2023-02-11,Germany,Website
+C0122,2021-02-26,Switzerland,Website
+C0123,2021-12-29,Germany,Website
+C0124,2022-06-26,Germany,Mobile App
+C0125,2022-12-13,Germany,Website
+C0126,2023-10-14,Austria,Email Campaign
+C0127,2023-05-10,Switzerland,Mobile App
+C0128,2021-07-01,Germany,Mobile App
+C0129,2023-09-21,Austria,Website
+C0130,2021-07-16,Germany,Website
+C0131,2023-10-02,Germany,Mobile App
+C0132,2021-11-28,Austria,Website
+C0133,2022-05-12,Austria,Email Campaign
+C0134,2023-06-28,Germany,Mobile App
+C0135,2021-01-23,Germany,Email Campaign
+C0136,2022-08-17,Switzerland,Mobile App
+C0137,2023-09-29,Germany,Mobile App
+C0138,2022-12-30,Germany,Email Campaign
+C0139,2022-09-22,Germany,Website
+C0140,2022-03-19,Germany,Mobile App
+C0141,2023-06-08,Switzerland,Mobile App
+C0142,2021-11-13,Germany,Website
+C0143,2021-03-26,Germany,Website
+C0144,2021-03-25,Austria,Mobile App
+C0145,2021-10-08,Germany,Website
+C0146,2021-04-30,Germany,Website
+C0147,2022-12-23,Germany,Mobile App
+C0148,2021-02-18,Germany,Website
+C0149,2021-01-27,Germany,Mobile App
+C0150,2022-06-11,Germany,Website
+C0151,2021-11-14,Germany,Website
+C0152,2022-08-20,Germany,Website
+C0153,2023-09-03,Germany,Email Campaign
+C0154,2022-07-09,Germany,Email Campaign
+C0155,2023-10-12,Austria,Website
+C0156,2022-10-07,Germany,Mobile App
+C0157,2021-07-13,Germany,Email Campaign
+C0158,2021-03-10,Germany,Mobile App
+C0159,2022-03-18,Germany,Mobile App
+C0160,2023-04-07,Germany,Website
+C0161,2021-03-07,Switzerland,Email Campaign
+C0162,2021-02-18,Germany,Website
+C0163,2021-03-17,Austria,Mobile App
+C0164,2022-11-14,Germany,Website
+C0165,2023-08-22,Germany,Website
+C0166,2021-11-14,Germany,Website
+C0167,2022-06-29,Switzerland,Website
+C0168,2021-01-25,Germany,Website
+C0169,2021-07-20,Germany,Email Campaign
+C0170,2023-05-20,Switzerland,Website
+C0171,2023-09-18,Germany,Website
+C0172,2021-05-01,Germany,Mobile App
+C0173,2023-05-02,Germany,Mobile App
+C0174,2022-05-30,Germany,Website
+C0175,2023-04-12,Germany,Website
+C0176,2022-06-23,Germany,Mobile App
+C0177,2022-04-17,Germany,Website
+C0178,2022-09-02,Austria,Website
+C0179,2022-01-05,Germany,Mobile App
+C0180,2023-11-19,Switzerland,Mobile App
+C0181,2021-03-17,Germany,Mobile App
+C0182,2022-11-16,Germany,Mobile App
+C0183,2023-09-27,Germany,Mobile App
+C0184,2023-10-02,Germany,Mobile App
+C0185,2021-06-23,Germany,Website
+C0186,2022-09-26,Germany,Website
+C0187,2023-03-12,Germany,Website
+C0188,2023-04-27,Germany,Website
+C0189,2022-03-10,Germany,Mobile App
+C0190,2021-04-24,Germany,Email Campaign
+C0191,2022-05-24,Germany,Website
+C0192,2023-05-02,Germany,Mobile App
+C0193,2023-10-11,Germany,Email Campaign
+C0194,2023-10-07,Germany,Website
+C0195,2021-07-24,Germany,Website
+C0196,2022-05-18,Switzerland,Mobile App
+C0197,2022-07-29,Germany,Email Campaign
+C0198,2023-01-27,Germany,Website
+C0199,2023-06-09,Germany,Website
+C0200,2022-08-27,Germany,Mobile App
+C0201,2021-07-01,Austria,Website
+C0202,2021-09-10,Germany,Mobile App
+C0203,2022-09-30,Germany,Email Campaign
+C0204,2022-10-06,Austria,Website
+C0205,2023-04-21,Germany,Email Campaign
+C0206,2023-01-22,Switzerland,Email Campaign
+C0207,2021-11-29,Switzerland,Email Campaign
+C0208,2021-01-05,Germany,Mobile App
+C0209,2022-12-28,Germany,Website
+C0210,2023-02-23,Germany,Email Campaign
+C0211,2023-07-26,Germany,Website
+C0212,2021-08-03,Germany,Website
+C0213,2021-09-19,Germany,Mobile App
+C0214,2022-08-14,Germany,Website
+C0215,2023-10-30,Austria,Website
+C0216,2021-08-22,Austria,Website
+C0217,2021-11-25,Germany,Mobile App
+C0218,2023-09-11,Germany,Website
+C0219,2022-08-16,Germany,Website
+C0220,2023-05-18,Germany,Website
+C0221,2023-05-23,Austria,Website
+C0222,2022-09-12,Germany,Website
+C0223,2022-02-21,Germany,Website
+C0224,2022-04-30,Austria,Website
+C0225,2022-04-17,Germany,Website
+C0226,2022-03-18,Germany,Mobile App
+C0227,2022-05-10,Germany,Website
+C0228,2022-10-13,Germany,Website
+C0229,2021-02-17,Switzerland,Website
+C0230,2023-03-28,Germany,Website
+C0231,2021-10-05,Germany,Mobile App
+C0232,2023-07-30,Germany,Email Campaign
+C0233,2021-10-21,Germany,Website
+C0234,2022-08-04,Germany,Mobile App
+C0235,2023-01-08,Switzerland,Mobile App
+C0236,2023-11-06,Austria,Website
+C0237,2023-09-24,Austria,Mobile App
+C0238,2021-08-29,Germany,Email Campaign
+C0239,2022-03-22,Germany,Website
+C0240,2023-10-22,Switzerland,Mobile App
+C0241,2022-08-20,Austria,Email Campaign
+C0242,2022-04-25,Germany,Mobile App
+C0243,2021-09-20,Germany,Website
+C0244,2021-01-12,Germany,Mobile App
+C0245,2021-09-03,Germany,Email Campaign
+C0246,2023-10-17,Austria,Mobile App
+C0247,2021-07-19,Austria,Mobile App
+C0248,2023-11-15,Switzerland,Website
+C0249,2023-04-26,Germany,Website
+C0250,2022-04-08,Germany,Website
+C0251,2022-01-02,Germany,Mobile App
+C0252,2021-04-20,Switzerland,Mobile App
+C0253,2022-01-20,Germany,Email Campaign
+C0254,2021-11-06,Germany,Email Campaign
+C0255,2023-07-28,Germany,Website
+C0256,2023-03-05,Austria,Website
+C0257,2021-08-29,Germany,Website
+C0258,2023-05-16,Germany,Email Campaign
+C0259,2021-07-20,Germany,Mobile App
+C0260,2022-09-24,Switzerland,Email Campaign
+C0261,2022-12-27,Germany,Website
+C0262,2023-03-29,Germany,Mobile App
+C0263,2021-01-27,Germany,Mobile App
+C0264,2021-12-19,Germany,Mobile App
+C0265,2022-08-06,Austria,Website
+C0266,2023-08-18,Germany,Mobile App
+C0267,2021-03-05,Germany,Website
+C0268,2021-01-07,Austria,Website
+C0269,2023-04-20,Germany,Email Campaign
+C0270,2022-03-03,Germany,Website
+C0271,2022-05-21,Germany,Website
+C0272,2023-05-16,Germany,Email Campaign
+C0273,2022-12-12,Austria,Website
+C0274,2021-11-15,Germany,Website
+C0275,2021-10-10,Germany,Email Campaign
+C0276,2022-08-23,Germany,Website
+C0277,2023-04-20,Austria,Website
+C0278,2023-04-13,Germany,Website
+C0279,2021-07-25,Austria,Website
+C0280,2022-03-09,Germany,Website
+C0281,2021-05-16,Austria,Mobile App
+C0282,2023-04-14,Germany,Website
+C0283,2022-03-29,Germany,Website
+C0284,2023-10-10,Germany,Website
+C0285,2021-08-13,Germany,Email Campaign
+C0286,2021-05-22,Germany,Email Campaign
+C0287,2022-07-28,Germany,Mobile App
+C0288,2021-06-14,Switzerland,Website
+C0289,2022-02-21,Germany,Email Campaign
+C0290,2023-09-25,Germany,Email Campaign
+C0291,2023-01-26,Germany,Mobile App
+C0292,2023-03-05,Switzerland,Website
+C0293,2022-09-19,Switzerland,Website
+C0294,2023-01-13,Germany,Website
+C0295,2022-10-21,Germany,Website
+C0296,2022-04-01,Germany,Website
+C0297,2023-09-19,Austria,Website
+C0298,2021-11-09,Germany,Website
+C0299,2022-08-15,Germany,Mobile App
+C0300,2023-09-23,Germany,Website
+C0301,2021-06-21,Germany,Mobile App
+C0302,2022-01-26,Germany,Website
+C0303,2022-02-14,Germany,Website
+C0304,2023-09-03,Switzerland,Website
+C0305,2023-08-31,Germany,Email Campaign
+C0306,2021-12-07,Germany,Website
+C0307,2021-03-09,Germany,Website
+C0308,2022-03-30,Germany,Mobile App
+C0309,2022-12-19,Germany,Website
+C0310,2021-03-05,Germany,Website
+C0311,2021-03-27,Germany,Email Campaign
+C0312,2023-02-01,Germany,Website
+C0313,2021-04-21,Austria,Email Campaign
+C0314,2023-05-14,Germany,Website
+C0315,2023-07-27,Germany,Website
+C0316,2022-12-12,Austria,Website
+C0317,2022-05-08,Germany,Mobile App
+C0318,2021-06-18,Austria,Website
+C0319,2021-06-12,Germany,Mobile App
+C0320,2022-12-04,Austria,Website
+C0321,2022-03-14,Germany,Mobile App
+C0322,2023-03-20,Switzerland,Website
+C0323,2022-02-09,Germany,Website
+C0324,2021-05-24,Germany,Website
+C0325,2022-02-21,Switzerland,Mobile App
+C0326,2023-10-16,Germany,Mobile App
+C0327,2022-04-23,Switzerland,Website
+C0328,2022-08-13,Switzerland,Mobile App
+C0329,2021-07-09,Switzerland,Mobile App
+C0330,2023-06-06,Austria,Mobile App
+C0331,2023-11-02,Germany,Mobile App
+C0332,2023-03-14,Germany,Website
+C0333,2022-08-18,Germany,Website
+C0334,2021-07-16,Austria,Website
+C0335,2022-12-31,Switzerland,Website
+C0336,2023-02-04,Austria,Mobile App
+C0337,2021-05-24,Germany,Website
+C0338,2023-11-21,Germany,Email Campaign
+C0339,2022-01-12,Germany,Email Campaign
+C0340,2021-04-03,Switzerland,Mobile App
+C0341,2022-04-14,Germany,Website
+C0342,2021-01-24,Germany,Mobile App
+C0343,2021-02-18,Germany,Website
+C0344,2023-07-16,Germany,Mobile App
+C0345,2021-08-06,Germany,Mobile App
+C0346,2023-05-13,Germany,Email Campaign
+C0347,2021-07-09,Germany,Website
+C0348,2022-08-05,Germany,Website
+C0349,2022-05-07,Austria,Mobile App
+C0350,2023-06-24,Austria,Email Campaign
+C0351,2023-06-22,Austria,Website
+C0352,2022-11-23,Germany,Email Campaign
+C0353,2022-05-15,Germany,Website
+C0354,2023-03-27,Germany,Website
+C0355,2021-10-05,Switzerland,Mobile App
+C0356,2022-02-14,Germany,Website
+C0357,2023-10-16,Austria,Email Campaign
+C0358,2021-03-02,Germany,Website
+C0359,2021-07-28,Germany,Mobile App
+C0360,2022-04-07,Switzerland,Website
+C0361,2021-02-08,Germany,Website
+C0362,2022-02-05,Germany,Mobile App
+C0363,2023-11-03,Switzerland,Website
+C0364,2022-10-03,Germany,Mobile App
+C0365,2021-02-28,Austria,Email Campaign
+C0366,2022-04-11,Austria,Website
+C0367,2021-09-28,Germany,Website
+C0368,2021-05-17,Germany,Email Campaign
+C0369,2022-08-26,Germany,Mobile App
+C0370,2022-05-05,Germany,Mobile App
+C0371,2023-03-27,Germany,Mobile App
+C0372,2021-07-16,Germany,Website
+C0373,2021-09-13,Germany,Website
+C0374,2022-08-30,Switzerland,Website
+C0375,2023-01-29,Switzerland,Mobile App
+C0376,2022-04-05,Switzerland,Website
+C0377,2023-06-13,Switzerland,Website
+C0378,2023-10-04,Germany,Website
+C0379,2023-08-10,Germany,Mobile App
+C0380,2021-05-11,Germany,Mobile App
+C0381,2023-03-01,Germany,Mobile App
+C0382,2023-01-05,Germany,Mobile App
+C0383,2023-12-02,Germany,Mobile App
+C0384,2022-04-16,Germany,Website
+C0385,2022-01-06,Germany,Mobile App
+C0386,2023-10-08,Germany,Mobile App
+C0387,2023-05-13,Austria,Website
+C0388,2022-08-30,Germany,Email Campaign
+C0389,2022-12-21,Germany,Mobile App
+C0390,2023-10-25,Switzerland,Mobile App
+C0391,2022-07-27,Germany,Email Campaign
+C0392,2023-08-09,Germany,Mobile App
+C0393,2021-09-10,Germany,Mobile App
+C0394,2022-11-03,Switzerland,Website
+C0395,2021-12-03,Germany,Mobile App
+C0396,2023-04-14,Germany,Mobile App
+C0397,2021-04-27,Germany,Email Campaign
+C0398,2023-07-10,Germany,Website
+C0399,2022-04-05,Austria,Website
+C0400,2022-06-18,Germany,Website
+C0401,2021-08-28,Germany,Website
+C0402,2021-07-10,Germany,Mobile App
+C0403,2021-08-22,Germany,Mobile App
+C0404,2021-01-25,Germany,Mobile App
+C0405,2023-11-14,Germany,Website
+C0406,2023-10-15,Austria,Website
+C0407,2023-09-29,Germany,Website
+C0408,2023-02-27,Austria,Email Campaign
+C0409,2023-08-31,Germany,Mobile App
+C0410,2021-03-28,Germany,Mobile App
+C0411,2023-08-02,Germany,Mobile App
+C0412,2022-06-22,Austria,Website
+C0413,2021-06-17,Switzerland,Mobile App
+C0414,2023-09-26,Germany,Website
+C0415,2023-05-26,Germany,Email Campaign
+C0416,2023-02-10,Germany,Website
+C0417,2022-01-10,Germany,Website
+C0418,2023-06-23,Switzerland,Email Campaign
+C0419,2023-03-12,Switzerland,Mobile App
+C0420,2023-10-18,Germany,Mobile App
+C0421,2023-10-13,Germany,Website
+C0422,2022-06-07,Germany,Website
+C0423,2021-11-01,Germany,Website
+C0424,2023-05-17,Germany,Website
+C0425,2023-03-17,Germany,Email Campaign
+C0426,2022-08-05,Austria,Mobile App
+C0427,2022-05-27,Germany,Website
+C0428,2021-05-15,Austria,Website
+C0429,2022-07-05,Switzerland,Website
+C0430,2023-11-14,Germany,Website
+C0431,2023-11-30,Germany,Email Campaign
+C0432,2022-10-22,Austria,Website
+C0433,2021-11-17,Switzerland,Email Campaign
+C0434,2023-06-07,Germany,Mobile App
+C0435,2022-02-19,Switzerland,Mobile App
+C0436,2022-05-15,Germany,Website
+C0437,2021-07-21,Germany,Website
+C0438,2023-04-30,Germany,Email Campaign
+C0439,2023-02-19,Austria,Email Campaign
+C0440,2021-06-23,Germany,Email Campaign
+C0441,2023-11-26,Austria,Email Campaign
+C0442,2022-07-03,Germany,Website
+C0443,2021-01-27,Switzerland,Website
+C0444,2021-10-15,Germany,Website
+C0445,2023-11-11,Germany,Mobile App
+C0446,2023-03-31,Germany,Website
+C0447,2021-10-31,Germany,Website
+C0448,2022-05-04,Germany,Mobile App
+C0449,2023-11-27,Germany,Email Campaign
+C0450,2023-04-01,Germany,Mobile App
+C0451,2021-11-28,Germany,Website
+C0452,2021-11-03,Germany,Website
+C0453,2023-01-30,Austria,Email Campaign
+C0454,2023-03-31,Germany,Mobile App
+C0455,2022-03-17,Germany,Website
+C0456,2022-01-28,Germany,Mobile App
+C0457,2021-03-27,Germany,Website
+C0458,2023-01-31,Switzerland,Email Campaign
+C0459,2023-07-22,Germany,Email Campaign
+C0460,2022-05-31,Germany,Website
+C0461,2022-04-09,Germany,Website
+C0462,2022-08-29,Germany,Website
+C0463,2021-05-31,Germany,Mobile App
+C0464,2021-05-10,Germany,Website
+C0465,2023-06-06,Switzerland,Email Campaign
+C0466,2022-02-08,Germany,Website
+C0467,2023-02-17,Germany,Mobile App
+C0468,2021-02-14,Germany,Website
+C0469,2023-11-09,Switzerland,Website
+C0470,2021-01-04,Switzerland,Website
+C0471,2021-03-22,Austria,Website
+C0472,2023-01-18,Germany,Website
+C0473,2022-05-14,Germany,Mobile App
+C0474,2021-08-09,Germany,Mobile App
+C0475,2023-07-13,Germany,Mobile App
+C0476,2021-08-13,Germany,Mobile App
+C0477,2022-10-06,Germany,Website
+C0478,2022-03-01,Austria,Mobile App
+C0479,2022-01-18,Germany,Mobile App
+C0480,2022-01-05,Switzerland,Mobile App
+C0481,2021-02-13,Germany,Website
+C0482,2021-02-08,Austria,Website
+C0483,2022-05-09,Austria,Email Campaign
+C0484,2021-06-22,Germany,Mobile App
+C0485,2022-07-19,Switzerland,Email Campaign
+C0486,2023-09-26,Germany,Website
+C0487,2022-06-16,Switzerland,Website
+C0488,2023-01-13,Germany,Website
+C0489,2023-03-09,Germany,Website
+C0490,2021-02-27,Germany,Mobile App
+C0491,2023-10-06,Germany,Website
+C0492,2022-11-28,Austria,Website
+C0493,2021-08-02,Switzerland,Website
+C0494,2022-06-14,Switzerland,Mobile App
+C0495,2023-11-30,Germany,Website
+C0496,2022-07-29,Germany,Mobile App
+C0497,2023-01-15,Germany,Mobile App
+C0498,2022-08-15,Germany,Website
+C0499,2022-02-03,Germany,Email Campaign
+C0500,2022-07-06,Switzerland,Mobile App
+C0501,2021-01-28,Germany,Website
+C0502,2021-07-30,Germany,Website
+C0503,2023-03-05,Switzerland,Mobile App
+C0504,2023-03-30,Austria,Email Campaign
+C0505,2021-10-12,Germany,Mobile App
+C0506,2021-11-28,Germany,Website
+C0507,2022-05-14,Austria,Website
+C0508,2023-04-24,Germany,Website
+C0509,2023-05-27,Germany,Mobile App
+C0510,2022-08-30,Austria,Website
+C0511,2022-01-17,Germany,Email Campaign
+C0512,2023-08-29,Germany,Website
+C0513,2023-06-02,Germany,Website
+C0514,2021-07-22,Germany,Website
+C0515,2023-08-18,Germany,Mobile App
+C0516,2022-08-15,Germany,Email Campaign
+C0517,2022-06-08,Germany,Mobile App
+C0518,2021-07-14,Germany,Mobile App
+C0519,2022-03-05,Germany,Website
+C0520,2022-07-16,Germany,Mobile App
+C0521,2021-08-30,Germany,Website
+C0522,2023-07-07,Germany,Website
+C0523,2023-08-19,Germany,Website
+C0524,2023-05-20,Germany,Mobile App
+C0525,2023-09-25,Switzerland,Mobile App
+C0526,2021-04-27,Germany,Website
+C0527,2023-06-18,Germany,Website
+C0528,2022-04-29,Germany,Mobile App
+C0529,2022-09-17,Germany,Website
+C0530,2023-07-18,Germany,Website
+C0531,2023-09-28,Switzerland,Mobile App
+C0532,2022-11-30,Germany,Mobile App
+C0533,2021-05-01,Germany,Website
+C0534,2022-06-13,Germany,Mobile App
+C0535,2021-01-14,Austria,Mobile App
+C0536,2022-12-16,Germany,Website
+C0537,2023-04-03,Germany,Mobile App
+C0538,2021-03-17,Germany,Website
+C0539,2022-01-19,Germany,Email Campaign
+C0540,2021-09-15,Germany,Email Campaign
+C0541,2021-09-29,Germany,Website
+C0542,2022-04-12,Germany,Website
+C0543,2022-01-28,Germany,Mobile App
+C0544,2023-09-18,Germany,Website
+C0545,2022-06-25,Germany,Website
+C0546,2022-02-04,Germany,Website
+C0547,2021-01-13,Austria,Website
+C0548,2021-02-27,Germany,Email Campaign
+C0549,2023-05-06,Austria,Website
+C0550,2021-01-11,Austria,Email Campaign
+C0551,2023-05-05,Germany,Website
+C0552,2023-09-22,Germany,Website
+C0553,2022-04-22,Germany,Email Campaign
+C0554,2023-04-28,Germany,Website
+C0555,2023-01-04,Germany,Mobile App
+C0556,2023-09-20,Switzerland,Mobile App
+C0557,2021-09-29,Switzerland,Mobile App
+C0558,2021-07-07,Germany,Mobile App
+C0559,2022-05-23,Austria,Mobile App
+C0560,2022-10-08,Germany,Website
+C0561,2023-10-05,Germany,Website
+C0562,2021-03-03,Germany,Mobile App
+C0563,2021-12-29,Germany,Mobile App
+C0564,2021-06-10,Germany,Website
+C0565,2021-02-20,Germany,Website
+C0566,2022-11-11,Germany,Email Campaign
+C0567,2022-11-11,Germany,Mobile App
+C0568,2023-07-22,Austria,Website
+C0569,2022-10-01,Germany,Website
+C0570,2022-03-21,Switzerland,Website
+C0571,2023-08-23,Germany,Mobile App
+C0572,2021-02-05,Germany,Mobile App
+C0573,2023-11-21,Germany,Website
+C0574,2021-07-11,Germany,Mobile App
+C0575,2021-03-28,Austria,Website
+C0576,2023-06-07,Germany,Mobile App
+C0577,2023-02-16,Switzerland,Website
+C0578,2023-08-17,Switzerland,Email Campaign
+C0579,2022-06-13,Germany,Website
+C0580,2021-09-21,Switzerland,Mobile App
+C0581,2021-01-12,Austria,Website
+C0582,2022-03-24,Germany,Mobile App
+C0583,2023-08-18,Germany,Email Campaign
+C0584,2022-08-08,Austria,Website
+C0585,2022-12-04,Germany,Email Campaign
+C0586,2021-03-06,Austria,Email Campaign
+C0587,2021-04-12,Germany,Mobile App
+C0588,2023-09-25,Germany,Mobile App
+C0589,2023-09-11,Switzerland,Website
+C0590,2022-02-09,Austria,Website
+C0591,2022-10-05,Germany,Mobile App
+C0592,2021-07-17,Germany,Mobile App
+C0593,2023-08-27,Germany,Website
+C0594,2022-08-19,Switzerland,Mobile App
+C0595,2022-09-16,Germany,Mobile App
+C0596,2022-10-21,Germany,Website
+C0597,2022-07-25,Germany,Website
+C0598,2021-04-15,Germany,Website
+C0599,2022-01-23,Germany,Website
+C0600,2021-02-02,Germany,Mobile App
+C0601,2021-12-01,Germany,Website
+C0602,2023-03-22,Germany,Mobile App
+C0603,2021-04-07,Switzerland,Email Campaign
+C0604,2023-01-11,Germany,Website
+C0605,2022-05-26,Germany,Website
+C0606,2022-04-29,Switzerland,Mobile App
+C0607,2022-07-05,Germany,Website
+C0608,2022-04-12,Germany,Website
+C0609,2021-09-13,Germany,Mobile App
+C0610,2022-09-01,Germany,Mobile App
+C0611,2022-10-17,Germany,Mobile App
+C0612,2023-09-16,Germany,Website
+C0613,2022-04-12,Germany,Website
+C0614,2021-12-21,Germany,Mobile App
+C0615,2021-06-11,Switzerland,Mobile App
+C0616,2021-11-04,Germany,Email Campaign
+C0617,2023-09-03,Germany,Website
+C0618,2023-03-12,Germany,Website
+C0619,2022-11-03,Germany,Website
+C0620,2021-05-29,Germany,Email Campaign
+C0621,2021-03-07,Germany,Website
+C0622,2022-03-06,Germany,Website
+C0623,2022-01-08,Switzerland,Website
+C0624,2021-03-22,Germany,Website
+C0625,2023-02-18,Germany,Mobile App
+C0626,2023-10-17,Switzerland,Website
+C0627,2021-08-02,Switzerland,Email Campaign
+C0628,2021-03-11,Germany,Website
+C0629,2021-11-05,Switzerland,Email Campaign
+C0630,2021-04-17,Germany,Website
+C0631,2022-05-18,Austria,Website
+C0632,2021-05-29,Austria,Mobile App
+C0633,2021-04-09,Austria,Mobile App
+C0634,2022-09-29,Germany,Website
+C0635,2021-11-08,Germany,Mobile App
+C0636,2023-09-18,Germany,Mobile App
+C0637,2022-08-20,Germany,Email Campaign
+C0638,2022-05-31,Germany,Mobile App
+C0639,2022-05-22,Germany,Website
+C0640,2021-09-05,Germany,Mobile App
+C0641,2022-09-20,Germany,Mobile App
+C0642,2023-03-03,Germany,Mobile App
+C0643,2023-05-28,Austria,Website
+C0644,2023-08-12,Germany,Website
+C0645,2021-04-01,Germany,Website
+C0646,2023-05-15,Germany,Website
+C0647,2023-03-12,Germany,Website
+C0648,2023-06-02,Switzerland,Email Campaign
+C0649,2023-04-26,Germany,Email Campaign
+C0650,2021-05-21,Germany,Website
+C0651,2022-06-16,Austria,Mobile App
+C0652,2022-04-04,Switzerland,Website
+C0653,2022-05-08,Austria,Website
+C0654,2022-07-18,Germany,Website
+C0655,2022-10-11,Germany,Website
+C0656,2021-11-08,Germany,Website
+C0657,2022-01-22,Germany,Website
+C0658,2022-04-25,Switzerland,Website
+C0659,2023-09-08,Germany,Website
+C0660,2022-01-24,Germany,Mobile App
+C0661,2022-06-30,Switzerland,Website
+C0662,2021-02-21,Germany,Mobile App
+C0663,2023-01-01,Switzerland,Mobile App
+C0664,2021-06-12,Germany,Email Campaign
+C0665,2022-09-18,Germany,Website
+C0666,2023-03-13,Germany,Website
+C0667,2023-10-16,Germany,Email Campaign
+C0668,2023-02-22,Germany,Website
+C0669,2021-09-11,Austria,Website
+C0670,2022-12-16,Germany,Website
+C0671,2021-08-18,Germany,Website
+C0672,2021-05-20,Germany,Website
+C0673,2021-03-28,Germany,Website
+C0674,2021-06-24,Germany,Mobile App
+C0675,2021-07-29,Germany,Website
+C0676,2021-09-03,Germany,Website
+C0677,2021-07-09,Austria,Website
+C0678,2023-03-04,Austria,Website
+C0679,2022-05-05,Germany,Website
+C0680,2022-05-15,Germany,Mobile App
+C0681,2023-10-17,Austria,Website
+C0682,2023-04-29,Germany,Website
+C0683,2022-04-05,Germany,Mobile App
+C0684,2023-03-17,Germany,Mobile App
+C0685,2022-10-23,Germany,Website
+C0686,2023-05-14,Austria,Email Campaign
+C0687,2023-02-20,Germany,Email Campaign
+C0688,2021-04-11,Germany,Website
+C0689,2022-01-12,Austria,Website
+C0690,2023-02-14,Germany,Website
+C0691,2021-04-17,Switzerland,Mobile App
+C0692,2021-10-17,Switzerland,Website
+C0693,2021-12-03,Germany,Website
+C0694,2021-08-12,Austria,Website
+C0695,2022-10-27,Austria,Email Campaign
+C0696,2022-05-04,Germany,Website
+C0697,2021-02-09,Germany,Website
+C0698,2022-06-19,Austria,Website
+C0699,2021-06-01,Germany,Website
+C0700,2021-10-21,Germany,Website
+C0701,2022-06-08,Germany,Email Campaign
+C0702,2021-05-05,Germany,Mobile App
+C0703,2022-04-01,Germany,Mobile App
+C0704,2023-02-19,Austria,Email Campaign
+C0705,2022-11-08,Switzerland,Website
+C0706,2022-03-30,Germany,Mobile App
+C0707,2023-10-08,Austria,Website
+C0708,2022-12-18,Germany,Mobile App
+C0709,2021-08-30,Germany,Website
+C0710,2021-06-27,Germany,Website
+C0711,2022-06-01,Germany,Mobile App
+C0712,2023-04-03,Germany,Website
+C0713,2023-06-28,Germany,Email Campaign
+C0714,2023-08-03,Germany,Mobile App
+C0715,2023-03-27,Germany,Website
+C0716,2023-12-01,Austria,Mobile App
+C0717,2022-07-14,Germany,Website
+C0718,2023-02-27,Austria,Mobile App
+C0719,2023-08-18,Switzerland,Website
+C0720,2022-03-01,Germany,Website
+C0721,2022-01-23,Germany,Email Campaign
+C0722,2022-12-12,Austria,Website
+C0723,2021-03-09,Germany,Website
+C0724,2022-03-23,Austria,Website
+C0725,2023-09-12,Germany,Email Campaign
+C0726,2022-05-22,Switzerland,Mobile App
+C0727,2021-09-09,Germany,Website
+C0728,2022-04-19,Germany,Mobile App
+C0729,2021-09-29,Germany,Website
+C0730,2021-03-05,Germany,Website
+C0731,2023-01-23,Switzerland,Mobile App
+C0732,2023-02-05,Germany,Website
+C0733,2023-11-13,Germany,Mobile App
+C0734,2023-02-12,Germany,Email Campaign
+C0735,2023-09-08,Germany,Website
+C0736,2022-06-16,Germany,Website
+C0737,2022-08-16,Germany,Mobile App
+C0738,2023-07-15,Germany,Mobile App
+C0739,2021-09-14,Germany,Website
+C0740,2021-03-26,Germany,Email Campaign
+C0741,2023-08-16,Germany,Email Campaign
+C0742,2021-01-06,Germany,Email Campaign
+C0743,2022-07-22,Germany,Email Campaign
+C0744,2022-09-23,Switzerland,Mobile App
+C0745,2023-02-22,Austria,Website
+C0746,2023-01-05,Germany,Website
+C0747,2021-11-21,Germany,Website
+C0748,2021-08-25,Germany,Email Campaign
+C0749,2022-09-20,Germany,Website
+C0750,2021-05-06,Switzerland,Email Campaign
+C0751,2022-07-21,Germany,Website
+C0752,2021-09-16,Switzerland,Website
+C0753,2023-10-05,Switzerland,Email Campaign
+C0754,2021-10-28,Germany,Mobile App
+C0755,2022-05-26,Germany,Website
+C0756,2022-12-04,Germany,Email Campaign
+C0757,2023-01-15,Austria,Email Campaign
+C0758,2021-06-30,Switzerland,Mobile App
+C0759,2021-11-12,Germany,Mobile App
+C0760,2021-02-24,Germany,Website
+C0761,2023-02-09,Germany,Website
+C0762,2023-10-01,Germany,Website
+C0763,2022-10-30,Germany,Mobile App
+C0764,2021-03-06,Germany,Website
+C0765,2022-07-18,Germany,Website
+C0766,2022-08-20,Austria,Website
+C0767,2023-04-22,Germany,Mobile App
+C0768,2023-10-07,Switzerland,Email Campaign
+C0769,2022-03-24,Germany,Website
+C0770,2022-08-14,Germany,Website
+C0771,2022-11-22,Germany,Website
+C0772,2022-12-14,Germany,Website
+C0773,2022-02-05,Germany,Website
+C0774,2021-03-23,Germany,Mobile App
+C0775,2021-06-12,Germany,Website
+C0776,2021-10-12,Austria,Website
+C0777,2023-10-05,Switzerland,Mobile App
+C0778,2023-02-26,Germany,Website
+C0779,2021-04-06,Switzerland,Email Campaign
+C0780,2023-03-19,Germany,Website
+C0781,2022-03-08,Switzerland,Website
+C0782,2022-03-08,Germany,Website
+C0783,2023-03-04,Germany,Mobile App
+C0784,2023-04-20,Germany,Email Campaign
+C0785,2022-05-05,Austria,Mobile App
+C0786,2023-05-31,Germany,Website
+C0787,2021-05-19,Switzerland,Website
+C0788,2023-01-29,Germany,Website
+C0789,2022-02-08,Germany,Website
+C0790,2023-04-14,Germany,Mobile App
+C0791,2023-01-29,Switzerland,Website
+C0792,2021-03-01,Germany,Website
+C0793,2023-09-03,Germany,Website
+C0794,2021-05-13,Germany,Mobile App
+C0795,2021-01-20,Germany,Website
+C0796,2022-11-08,Switzerland,Website
+C0797,2021-06-16,Switzerland,Mobile App
+C0798,2022-06-01,Germany,Email Campaign
+C0799,2023-04-07,Germany,Website
+C0800,2023-05-25,Germany,Mobile App
+C0801,2021-06-27,Germany,Mobile App
+C0802,2023-09-16,Switzerland,Website
+C0803,2023-11-07,Germany,Website
+C0804,2021-11-16,Germany,Website
+C0805,2022-08-08,Germany,Mobile App
+C0806,2023-10-28,Switzerland,Mobile App
+C0807,2023-11-21,Germany,Website
+C0808,2021-11-14,Germany,Mobile App
+C0809,2021-10-08,Germany,Mobile App
+C0810,2023-08-02,Germany,Website
+C0811,2021-10-22,Austria,Email Campaign
+C0812,2021-06-20,Austria,Email Campaign
+C0813,2023-07-11,Germany,Email Campaign
+C0814,2023-01-29,Germany,Website
+C0815,2023-05-25,Germany,Email Campaign
+C0816,2022-12-01,Germany,Mobile App
+C0817,2021-09-07,Germany,Website
+C0818,2021-03-02,Germany,Email Campaign
+C0819,2021-07-19,Germany,Website
+C0820,2022-05-08,Germany,Mobile App
+C0821,2022-04-10,Germany,Mobile App
+C0822,2023-06-26,Germany,Email Campaign
+C0823,2023-07-30,Germany,Email Campaign
+C0824,2021-07-15,Germany,Email Campaign
+C0825,2022-06-02,Germany,Website
+C0826,2021-05-27,Germany,Website
+C0827,2021-05-19,Germany,Mobile App
+C0828,2022-06-02,Switzerland,Mobile App
+C0829,2023-03-01,Switzerland,Website
+C0830,2023-02-10,Germany,Mobile App
+C0831,2021-11-09,Germany,Mobile App
+C0832,2023-11-17,Switzerland,Mobile App
+C0833,2023-02-28,Germany,Website
+C0834,2023-12-02,Switzerland,Website
+C0835,2021-03-01,Germany,Mobile App
+C0836,2022-09-03,Switzerland,Email Campaign
+C0837,2022-11-04,Germany,Website
+C0838,2021-07-27,Germany,Mobile App
+C0839,2021-06-05,Switzerland,Mobile App
+C0840,2021-09-04,Germany,Email Campaign
+C0841,2022-10-12,Austria,Website
+C0842,2021-03-20,Germany,Mobile App
+C0843,2021-08-17,Germany,Mobile App
+C0844,2023-02-07,Austria,Email Campaign
+C0845,2023-07-29,Austria,Website
+C0846,2022-09-09,Germany,Website
+C0847,2022-02-15,Switzerland,Website
+C0848,2022-03-04,Germany,Mobile App
+C0849,2021-03-26,Switzerland,Website
+C0850,2023-02-24,Germany,Mobile App
+C0851,2023-04-02,Germany,Mobile App
+C0852,2021-07-26,Germany,Website
+C0853,2021-07-02,Austria,Mobile App
+C0854,2023-09-22,Germany,Website
+C0855,2022-04-25,Germany,Mobile App
+C0856,2023-05-03,Austria,Mobile App
+C0857,2023-07-15,Switzerland,Website
+C0858,2023-02-11,Austria,Website
+C0859,2021-07-11,Germany,Email Campaign
+C0860,2021-11-29,Austria,Website
+C0861,2022-11-06,Germany,Mobile App
+C0862,2022-08-12,Germany,Website
+C0863,2023-05-22,Germany,Mobile App
+C0864,2022-07-21,Germany,Email Campaign
+C0865,2022-03-18,Germany,Website
+C0866,2022-12-31,Germany,Mobile App
+C0867,2022-11-13,Germany,Website
+C0868,2022-09-23,Germany,Mobile App
+C0869,2022-10-22,Germany,Mobile App
+C0870,2023-02-18,Germany,Email Campaign
+C0871,2022-10-22,Switzerland,Email Campaign
+C0872,2021-12-25,Germany,Website
+C0873,2021-10-30,Austria,Website
+C0874,2021-08-29,Germany,Email Campaign
+C0875,2023-03-17,Germany,Mobile App
+C0876,2021-05-11,Austria,Website
+C0877,2022-07-11,Austria,Email Campaign
+C0878,2021-12-25,Germany,Mobile App
+C0879,2021-04-15,Germany,Website
+C0880,2021-07-30,Germany,Website
+C0881,2022-01-05,Germany,Mobile App
+C0882,2021-11-28,Germany,Mobile App
+C0883,2023-01-05,Germany,Mobile App
+C0884,2023-06-17,Germany,Website
+C0885,2021-04-25,Germany,Email Campaign
+C0886,2021-09-15,Germany,Mobile App
+C0887,2022-06-28,Austria,Website
+C0888,2023-04-29,Germany,Email Campaign
+C0889,2022-01-08,Austria,Mobile App
+C0890,2022-04-04,Germany,Website
+C0891,2022-09-19,Germany,Website
+C0892,2021-03-05,Germany,Website
+C0893,2021-07-22,Germany,Mobile App
+C0894,2022-10-30,Germany,Website
+C0895,2021-04-15,Austria,Website
+C0896,2022-09-02,Germany,Mobile App
+C0897,2023-03-27,Germany,Website
+C0898,2022-11-21,Germany,Email Campaign
+C0899,2021-05-30,Germany,Website
+C0900,2021-03-16,Germany,Email Campaign
+C0901,2022-08-09,Germany,Website
+C0902,2021-09-22,Germany,Mobile App
+C0903,2023-02-23,Germany,Website
+C0904,2023-05-14,Austria,Website
+C0905,2022-11-18,Switzerland,Website
+C0906,2022-05-12,Germany,Website
+C0907,2023-05-28,Germany,Website
+C0908,2022-11-26,Austria,Website
+C0909,2022-11-25,Switzerland,Website
+C0910,2023-02-24,Austria,Website
+C0911,2022-09-26,Germany,Website
+C0912,2022-06-19,Germany,Mobile App
+C0913,2021-08-23,Austria,Website
+C0914,2022-06-18,Germany,Website
+C0915,2023-09-25,Germany,Mobile App
+C0916,2023-02-02,Germany,Email Campaign
+C0917,2023-02-19,Austria,Website
+C0918,2021-04-17,Germany,Mobile App
+C0919,2023-03-09,Switzerland,Mobile App
+C0920,2023-01-27,Germany,Website
+C0921,2022-02-23,Germany,Website
+C0922,2021-06-27,Germany,Website
+C0923,2023-11-30,Germany,Mobile App
+C0924,2023-04-10,Switzerland,Website
+C0925,2023-07-28,Germany,Mobile App
+C0926,2023-02-03,Germany,Mobile App
+C0927,2021-09-12,Austria,Website
+C0928,2021-03-31,Germany,Website
+C0929,2022-02-22,Germany,Email Campaign
+C0930,2022-03-21,Germany,Website
+C0931,2021-09-15,Germany,Website
+C0932,2021-02-10,Germany,Email Campaign
+C0933,2022-02-20,Germany,Mobile App
+C0934,2022-12-11,Germany,Mobile App
+C0935,2022-08-06,Austria,Website
+C0936,2021-04-05,Austria,Website
+C0937,2022-11-25,Switzerland,Mobile App
+C0938,2022-04-14,Austria,Mobile App
+C0939,2022-04-20,Germany,Website
+C0940,2023-08-20,Germany,Website
+C0941,2022-11-13,Germany,Mobile App
+C0942,2021-06-02,Austria,Website
+C0943,2021-03-01,Austria,Website
+C0944,2022-07-22,Switzerland,Mobile App
+C0945,2021-03-18,Germany,Email Campaign
+C0946,2023-08-30,Switzerland,Website
+C0947,2021-09-19,Austria,Website
+C0948,2023-08-22,Austria,Website
+C0949,2021-12-31,Germany,Website
+C0950,2021-07-11,Germany,Mobile App
+C0951,2022-03-03,Germany,Mobile App
+C0952,2023-11-12,Germany,Website
+C0953,2021-02-26,Germany,Mobile App
+C0954,2022-07-28,Germany,Website
+C0955,2022-03-20,Germany,Website
+C0956,2021-08-03,Germany,Email Campaign
+C0957,2022-07-01,Germany,Email Campaign
+C0958,2021-11-17,Germany,Website
+C0959,2021-05-08,Switzerland,Mobile App
+C0960,2023-04-20,Germany,Website
+C0961,2022-07-02,Austria,Website
+C0962,2021-05-10,Germany,Mobile App
+C0963,2021-08-06,Germany,Website
+C0964,2023-04-23,Germany,Website
+C0965,2021-05-06,Germany,Website
+C0966,2021-04-12,Germany,Mobile App
+C0967,2021-12-25,Germany,Mobile App
+C0968,2021-08-06,Germany,Mobile App
+C0969,2021-07-07,Germany,Email Campaign
+C0970,2021-03-06,Germany,Website
+C0971,2021-09-09,Austria,Mobile App
+C0972,2023-09-11,Austria,Mobile App
+C0973,2023-09-23,Switzerland,Mobile App
+C0974,2023-05-24,Germany,Website
+C0975,2022-02-10,Austria,Email Campaign
+C0976,2021-07-13,Switzerland,Website
+C0977,2023-03-18,Germany,Website
+C0978,2022-05-15,Germany,Website
+C0979,2021-03-28,Germany,Mobile App
+C0980,2023-11-11,Germany,Mobile App
+C0981,2022-12-23,Austria,Website
+C0982,2023-02-10,Switzerland,Website
+C0983,2022-05-31,Germany,Mobile App
+C0984,2021-10-02,Germany,Website
+C0985,2022-01-18,Germany,Mobile App
+C0986,2023-09-26,Germany,Website
+C0987,2023-10-12,Germany,Email Campaign
+C0988,2023-01-18,Germany,Website
+C0989,2022-09-30,Germany,Website
+C0990,2021-08-13,Germany,Website
+C0991,2023-01-11,Switzerland,Email Campaign
+C0992,2021-09-28,Germany,Mobile App
+C0993,2023-10-28,Germany,Website
+C0994,2021-10-31,Switzerland,Mobile App
+C0995,2021-07-05,Germany,Email Campaign
+C0996,2023-10-05,Austria,Website
+C0997,2022-08-21,Germany,Website
+C0998,2022-07-19,Germany,Website
+C0999,2022-04-27,Germany,Email Campaign
+C1000,2022-03-19,Germany,Mobile App

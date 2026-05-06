@@ -1,0 +1,985 @@
+customer_id,recency_days,frequency,monetary,r_score,f_score,m_score,rfm_score,segment
+C0001,39,9,1555.6,5,3,5,13,Loyal Customers
+C0002,8,7,936.14,5,2,5,12,Potential Loyalist
+C0003,187,1,191.98,3,1,2,6,Hibernating
+C0004,89,5,1019.61,4,2,5,11,Potential Loyalist
+C0005,446,7,802.33,1,2,4,7,Lost
+C0006,9,6,288.47,5,2,2,9,Potential Loyalist
+C0007,172,3,327.92,3,1,2,6,Hibernating
+C0008,13,7,407.35,5,2,3,10,Potential Loyalist
+C0009,34,5,416.63,5,2,3,10,Potential Loyalist
+C0010,198,1,509.97,3,1,3,7,Hibernating
+C0011,169,1,99.96,3,1,1,5,Hibernating
+C0012,89,5,1007.81,4,2,5,11,Potential Loyalist
+C0013,175,1,152.98,3,1,1,5,Hibernating
+C0014,53,9,532.42,5,3,3,11,Loyal Customers
+C0015,95,1,119.96,4,1,1,6,Potential Loyalist
+C0016,199,1,303.96,3,1,2,6,Hibernating
+C0017,13,9,843.57,5,3,4,12,Loyal Customers
+C0018,37,8,1233.45,5,3,5,13,Loyal Customers
+C0019,162,2,87.45,3,1,1,5,Hibernating
+C0020,105,2,449.94,4,1,3,8,Potential Loyalist
+C0021,39,1,44.98,5,1,1,7,Potential Loyalist
+C0022,53,10,1470.17,5,3,5,13,Loyal Customers
+C0023,93,3,203.93,4,1,2,7,Potential Loyalist
+C0025,5,7,748.37,5,2,4,11,Potential Loyalist
+C0026,964,1,118.98,1,1,1,3,Lost
+C0027,35,10,2106.86,5,3,5,13,Loyal Customers
+C0028,139,1,109.98,4,1,1,6,Potential Loyalist
+C0029,71,5,357.33,5,2,2,9,Potential Loyalist
+C0031,6,4,566.92,5,1,3,9,Potential Loyalist
+C0032,93,5,606.86,4,2,4,10,Potential Loyalist
+C0033,313,1,49.95,2,1,1,4,Lost
+C0034,23,1,399.95,5,1,3,9,Potential Loyalist
+C0035,50,1,359.96,5,1,2,8,Potential Loyalist
+C0036,9,5,324.91,5,2,2,9,Potential Loyalist
+C0037,651,2,69.98,1,1,1,3,Lost
+C0038,634,3,270.48,1,1,2,4,Lost
+C0039,448,1,44.17,1,1,1,3,Lost
+C0040,202,1,299.98,3,1,2,6,Hibernating
+C0041,18,6,657.58,5,2,4,11,Potential Loyalist
+C0042,173,5,304.89,3,2,2,7,Hibernating
+C0043,309,1,39.98,2,1,1,4,Lost
+C0044,50,2,201.96,5,1,2,8,Potential Loyalist
+C0045,114,7,659.0,4,2,4,10,Potential Loyalist
+C0046,8,7,564.59,5,2,3,10,Potential Loyalist
+C0047,54,6,1021.35,5,2,5,12,Potential Loyalist
+C0048,153,10,833.42,4,3,4,11,Loyal Customers
+C0049,8,3,438.44,5,1,3,9,Potential Loyalist
+C0050,10,8,834.78,5,3,4,12,Loyal Customers
+C0051,150,2,313.95,4,1,2,7,Potential Loyalist
+C0052,200,1,132.98,3,1,1,5,Hibernating
+C0053,4,7,592.05,5,2,3,10,Potential Loyalist
+C0054,346,1,37.02,2,1,1,4,Lost
+C0055,108,1,271.97,4,1,2,7,Potential Loyalist
+C0056,83,6,1113.06,4,2,5,11,Potential Loyalist
+C0057,158,2,204.96,3,1,2,6,Hibernating
+C0058,4,8,943.28,5,3,5,13,Loyal Customers
+C0059,100,4,100.12,4,1,1,6,Potential Loyalist
+C0060,56,4,428.89,5,1,3,9,Potential Loyalist
+C0061,197,1,49.49,3,1,1,5,Hibernating
+C0062,73,9,587.75,4,3,3,10,Loyal Customers
+C0063,174,2,150.93,3,1,1,5,Hibernating
+C0064,88,5,372.89,4,2,3,9,Potential Loyalist
+C0065,131,4,887.38,4,1,5,10,Potential Loyalist
+C0066,110,8,630.51,4,3,4,11,Loyal Customers
+C0067,2,8,931.51,5,3,5,13,Loyal Customers
+C0069,2,1,127.47,5,1,1,7,Potential Loyalist
+C0070,74,1,48.42,4,1,1,6,Potential Loyalist
+C0071,1,7,534.95,5,2,3,10,Potential Loyalist
+C0072,102,6,523.39,4,2,3,9,Potential Loyalist
+C0073,55,9,828.81,5,3,4,12,Loyal Customers
+C0074,440,7,760.79,2,2,4,8,Lost
+C0075,50,11,597.65,5,4,3,12,Loyal Customers
+C0076,53,9,1475.75,5,3,5,13,Loyal Customers
+C0077,293,1,179.96,2,1,2,5,Lost
+C0078,3,7,847.32,5,2,4,11,Potential Loyalist
+C0079,7,5,429.65,5,2,3,10,Potential Loyalist
+C0081,50,5,708.86,5,2,4,11,Potential Loyalist
+C0082,57,5,343.85,5,2,2,9,Potential Loyalist
+C0083,94,7,372.15,4,2,2,8,Potential Loyalist
+C0084,9,8,668.27,5,3,4,12,Loyal Customers
+C0085,34,7,488.8,5,2,3,10,Potential Loyalist
+C0086,14,11,1441.5,5,4,5,14,Champions
+C0087,13,4,309.89,5,1,2,8,Potential Loyalist
+C0088,178,3,98.61,3,1,1,5,Hibernating
+C0089,350,3,204.88,2,1,2,5,Lost
+C0090,1,11,1344.86,5,4,5,14,Champions
+C0091,367,2,95.95,2,1,1,4,Lost
+C0092,18,3,198.94,5,1,2,8,Potential Loyalist
+C0093,16,1,79.96,5,1,1,7,Potential Loyalist
+C0094,50,6,864.71,5,2,5,12,Potential Loyalist
+C0095,124,4,303.93,4,1,2,7,Potential Loyalist
+C0097,158,8,996.29,3,3,5,11,Loyal Customers
+C0098,185,4,549.88,3,1,3,7,Hibernating
+C0099,23,6,855.81,5,2,4,11,Potential Loyalist
+C0100,50,6,354.9,5,2,2,9,Potential Loyalist
+C0101,853,1,23.74,1,1,1,3,Lost
+C0102,27,5,605.39,5,2,4,11,Potential Loyalist
+C0103,115,4,410.91,4,1,3,8,Potential Loyalist
+C0104,11,9,987.11,5,3,5,13,Loyal Customers
+C0105,70,2,359.93,5,1,2,8,Potential Loyalist
+C0106,44,5,885.86,5,2,5,12,Potential Loyalist
+C0107,24,6,454.07,5,2,3,10,Potential Loyalist
+C0108,75,2,188.92,4,1,2,7,Potential Loyalist
+C0109,121,5,344.1,4,2,2,8,Potential Loyalist
+C0110,187,5,384.23,3,2,3,8,Hibernating
+C0111,145,1,119.98,4,1,1,6,Potential Loyalist
+C0112,704,2,41.97,1,1,1,3,Lost
+C0113,3,7,765.11,5,2,4,11,Potential Loyalist
+C0114,443,1,5.98,1,1,1,3,Lost
+C0115,78,3,336.41,4,1,2,7,Potential Loyalist
+C0116,6,7,894.05,5,2,5,12,Potential Loyalist
+C0117,541,1,74.97,1,1,1,3,Lost
+C0118,46,2,46.97,5,1,1,7,Potential Loyalist
+C0119,20,12,1747.21,5,4,5,14,Champions
+C0120,202,1,79.96,3,1,1,5,Hibernating
+C0121,31,3,307.18,5,1,2,8,Potential Loyalist
+C0122,110,5,625.33,4,2,4,10,Potential Loyalist
+C0123,413,6,845.5,2,2,4,8,Lost
+C0124,18,8,767.29,5,3,4,12,Loyal Customers
+C0125,105,3,208.68,4,1,2,7,Potential Loyalist
+C0126,61,1,47.98,5,1,1,7,Potential Loyalist
+C0127,32,5,297.3,5,2,2,9,Potential Loyalist
+C0128,204,6,717.61,3,2,4,9,Hibernating
+C0129,22,5,851.85,5,2,4,11,Potential Loyalist
+C0130,879,1,54.99,1,1,1,3,Lost
+C0131,11,8,1197.03,5,3,5,13,Loyal Customers
+C0132,223,1,8.07,3,1,1,5,Hibernating
+C0133,54,5,964.13,5,2,5,12,Potential Loyalist
+C0134,52,13,1107.35,5,4,5,14,Champions
+C0135,232,3,822.89,3,1,4,8,Hibernating
+C0136,50,10,768.1,5,3,4,12,Loyal Customers
+C0137,35,3,417.92,5,1,3,9,Potential Loyalist
+C0138,336,1,323.96,2,1,2,5,Lost
+C0139,7,16,1478.21,5,5,5,15,Champions
+C0140,49,6,778.88,5,2,4,11,Potential Loyalist
+C0141,6,4,541.39,5,1,3,9,Potential Loyalist
+C0142,56,1,143.98,5,1,1,7,Potential Loyalist
+C0143,123,1,16.98,4,1,1,6,Potential Loyalist
+C0144,11,5,390.83,5,2,3,10,Potential Loyalist
+C0145,104,7,828.06,4,2,4,10,Potential Loyalist
+C0146,3,4,672.84,5,1,4,10,Potential Loyalist
+C0147,221,2,255.95,3,1,2,6,Hibernating
+C0148,11,6,710.51,5,2,4,11,Potential Loyalist
+C0149,147,4,372.86,4,1,3,8,Potential Loyalist
+C0150,275,3,302.95,2,1,2,5,Lost
+C0151,454,1,26.98,1,1,1,3,Lost
+C0152,234,6,239.87,3,2,2,7,Hibernating
+C0153,25,5,486.88,5,2,3,10,Potential Loyalist
+C0154,18,14,1278.35,5,5,5,15,Champions
+C0155,17,5,394.35,5,2,3,10,Potential Loyalist
+C0156,82,8,857.81,4,3,4,11,Loyal Customers
+C0157,368,1,79.98,2,1,1,4,Lost
+C0158,977,1,11.96,1,1,1,3,Lost
+C0159,201,1,142.45,3,1,1,5,Hibernating
+C0160,33,3,436.17,5,1,3,9,Potential Loyalist
+C0161,291,4,316.47,2,1,2,5,Lost
+C0162,30,5,394.88,5,2,3,10,Potential Loyalist
+C0163,337,2,516.94,2,1,3,6,Lost
+C0164,14,7,693.32,5,2,4,11,Potential Loyalist
+C0165,19,4,194.42,5,1,2,8,Potential Loyalist
+C0166,156,6,511.07,3,2,3,8,Hibernating
+C0167,131,6,932.52,4,2,5,11,Potential Loyalist
+C0168,39,2,233.95,5,1,2,8,Potential Loyalist
+C0169,47,5,238.74,5,2,2,9,Potential Loyalist
+C0170,6,15,1655.17,5,5,5,15,Champions
+C0171,10,1,359.98,5,1,2,8,Potential Loyalist
+C0172,831,2,914.92,1,1,5,7,Lost
+C0173,43,5,457.37,5,2,3,10,Potential Loyalist
+C0174,58,3,574.87,5,1,3,9,Potential Loyalist
+C0175,14,3,225.9,5,1,2,8,Potential Loyalist
+C0176,21,8,1619.99,5,3,5,13,Loyal Customers
+C0177,270,2,349.91,2,1,2,5,Lost
+C0178,25,10,1225.25,5,3,5,13,Loyal Customers
+C0179,12,11,947.26,5,4,5,14,Champions
+C0180,11,5,411.28,5,2,3,10,Potential Loyalist
+C0181,24,4,250.74,5,1,2,8,Potential Loyalist
+C0182,68,4,481.86,5,1,3,9,Potential Loyalist
+C0183,2,9,732.94,5,3,4,12,Loyal Customers
+C0184,78,2,289.92,4,1,2,7,Potential Loyalist
+C0185,735,1,59.99,1,1,1,3,Lost
+C0186,4,6,665.78,5,2,4,11,Potential Loyalist
+C0187,14,4,317.03,5,1,2,8,Potential Loyalist
+C0188,120,1,11.96,4,1,1,6,Potential Loyalist
+C0189,8,5,367.34,5,2,2,9,Potential Loyalist
+C0190,511,1,29.98,1,1,1,3,Lost
+C0191,48,6,423.24,5,2,3,10,Potential Loyalist
+C0192,50,2,56.93,5,1,1,7,Potential Loyalist
+C0193,46,1,14.99,5,1,1,7,Potential Loyalist
+C0194,15,2,109.95,5,1,1,7,Potential Loyalist
+C0195,385,3,178.95,2,1,2,5,Lost
+C0196,151,5,430.89,4,2,3,9,Potential Loyalist
+C0197,99,7,616.38,4,2,4,10,Potential Loyalist
+C0198,182,3,1067.39,3,1,5,9,Hibernating
+C0199,16,10,1048.27,5,3,5,13,Loyal Customers
+C0200,1,9,1024.04,5,3,5,13,Loyal Customers
+C0201,469,1,139.98,1,1,1,3,Lost
+C0202,234,4,816.86,3,1,4,8,Hibernating
+C0203,3,3,119.94,5,1,1,7,Potential Loyalist
+C0204,25,10,1086.25,5,3,5,13,Loyal Customers
+C0205,97,2,392.94,4,1,3,8,Potential Loyalist
+C0206,25,3,298.11,5,1,2,8,Potential Loyalist
+C0207,46,2,344.94,5,1,2,8,Potential Loyalist
+C0208,195,1,39.99,3,1,1,5,Hibernating
+C0209,78,7,410.58,4,2,3,9,Potential Loyalist
+C0210,51,6,540.26,5,2,3,10,Potential Loyalist
+C0211,29,4,434.89,5,1,3,9,Potential Loyalist
+C0212,223,1,85.48,3,1,1,5,Hibernating
+C0213,53,3,344.96,5,1,2,8,Potential Loyalist
+C0214,47,5,338.62,5,2,2,9,Potential Loyalist
+C0215,29,1,9.99,5,1,1,7,Potential Loyalist
+C0216,88,7,902.28,4,2,5,11,Potential Loyalist
+C0217,155,3,659.91,3,1,4,8,Hibernating
+C0218,111,1,189.95,4,1,2,7,Potential Loyalist
+C0219,86,2,126.35,4,1,1,6,Potential Loyalist
+C0220,7,4,542.88,5,1,3,9,Potential Loyalist
+C0221,12,13,2500.81,5,4,5,14,Champions
+C0222,57,4,589.37,5,1,3,9,Potential Loyalist
+C0223,468,1,17.99,1,1,1,3,Lost
+C0224,147,3,363.64,4,1,2,7,Potential Loyalist
+C0225,177,5,492.49,3,2,3,8,Hibernating
+C0226,560,1,103.99,1,1,1,3,Lost
+C0227,66,3,149.21,5,1,1,7,Potential Loyalist
+C0229,155,5,1010.47,3,2,5,10,Hibernating
+C0230,20,6,966.08,5,2,5,12,Potential Loyalist
+C0231,55,2,189.95,5,1,2,8,Potential Loyalist
+C0232,19,9,1079.03,5,3,5,13,Loyal Customers
+C0233,78,3,171.9,4,1,1,6,Potential Loyalist
+C0234,115,3,168.95,4,1,1,6,Potential Loyalist
+C0235,221,1,467.96,3,1,3,7,Hibernating
+C0236,4,9,367.55,5,3,2,10,Loyal Customers
+C0237,2,5,582.85,5,2,3,10,Potential Loyalist
+C0238,203,6,787.82,3,2,4,9,Hibernating
+C0239,194,4,450.63,3,1,3,7,Hibernating
+C0240,2,16,1679.79,5,5,5,15,Champions
+C0242,601,1,29.98,1,1,1,3,Lost
+C0243,150,1,159.98,4,1,1,6,Potential Loyalist
+C0244,151,4,381.21,4,1,3,8,Potential Loyalist
+C0245,71,15,1732.08,5,5,5,15,Champions
+C0246,60,1,25.98,5,1,1,7,Potential Loyalist
+C0247,496,1,449.97,1,1,3,5,Lost
+C0248,31,3,727.91,5,1,4,10,Potential Loyalist
+C0249,21,5,184.98,5,2,2,9,Potential Loyalist
+C0250,30,3,210.95,5,1,2,8,Potential Loyalist
+C0251,30,7,535.89,5,2,3,10,Potential Loyalist
+C0252,33,4,503.9,5,1,3,9,Potential Loyalist
+C0253,311,1,29.99,2,1,1,4,Lost
+C0254,2,1,29.98,5,1,1,7,Potential Loyalist
+C0255,24,1,159.98,5,1,1,7,Potential Loyalist
+C0256,43,10,1205.79,5,3,5,13,Loyal Customers
+C0257,107,4,623.61,4,1,4,9,Potential Loyalist
+C0258,31,4,497.42,5,1,3,9,Potential Loyalist
+C0259,431,1,25.48,2,1,1,4,Lost
+C0260,185,2,64.93,3,1,1,5,Hibernating
+C0261,137,6,654.42,4,2,4,10,Potential Loyalist
+C0262,159,1,46.76,3,1,1,5,Hibernating
+C0263,203,13,1252.53,3,4,5,12,Loyal Customers
+C0264,34,6,758.32,5,2,4,11,Potential Loyalist
+C0265,284,2,164.19,2,1,1,4,Lost
+C0266,55,2,777.41,5,1,4,10,Potential Loyalist
+C0267,818,1,127.97,1,1,1,3,Lost
+C0268,222,7,642.66,3,2,4,9,Hibernating
+C0269,152,2,337.93,4,1,2,7,Potential Loyalist
+C0270,235,4,485.34,3,1,3,7,Hibernating
+C0271,74,6,472.6,4,2,3,9,Potential Loyalist
+C0272,134,3,315.41,4,1,2,7,Potential Loyalist
+C0273,17,1,33.99,5,1,1,7,Potential Loyalist
+C0274,304,6,367.1,2,2,2,6,Lost
+C0275,239,1,29.97,3,1,1,5,Hibernating
+C0276,72,8,1003.25,5,3,5,13,Loyal Customers
+C0277,194,2,322.94,3,1,2,6,Hibernating
+C0278,3,9,1136.74,5,3,5,13,Loyal Customers
+C0279,855,1,39.98,1,1,1,3,Lost
+C0280,196,3,442.67,3,1,3,7,Hibernating
+C0281,202,1,749.95,3,1,4,8,Hibernating
+C0282,38,3,165.15,5,1,1,7,Potential Loyalist
+C0283,211,6,340.68,3,2,2,7,Hibernating
+C0284,38,1,89.99,5,1,1,7,Potential Loyalist
+C0285,182,4,709.09,3,1,4,8,Hibernating
+C0286,704,1,71.99,1,1,1,3,Lost
+C0287,348,2,653.44,2,1,4,7,Lost
+C0288,205,6,323.74,3,2,2,7,Hibernating
+C0289,117,2,207.96,4,1,2,7,Potential Loyalist
+C0290,3,2,50.2,5,1,1,7,Potential Loyalist
+C0291,45,7,686.78,5,2,4,11,Potential Loyalist
+C0292,22,6,603.03,5,2,4,11,Potential Loyalist
+C0293,316,1,56.97,2,1,1,4,Lost
+C0294,73,1,749.95,4,1,4,9,Potential Loyalist
+C0295,54,3,300.93,5,1,2,8,Potential Loyalist
+C0296,52,5,1091.71,5,2,5,12,Potential Loyalist
+C0297,3,4,283.45,5,1,2,8,Potential Loyalist
+C0298,30,7,1130.64,5,2,5,12,Potential Loyalist
+C0299,208,5,565.39,3,2,3,8,Hibernating
+C0300,3,9,790.59,5,3,4,12,Loyal Customers
+C0301,274,2,145.95,2,1,1,4,Lost
+C0302,214,7,716.1,3,2,4,9,Hibernating
+C0303,4,1,71.98,5,1,1,7,Potential Loyalist
+C0304,80,1,71.96,4,1,1,6,Potential Loyalist
+C0305,23,8,915.51,5,3,5,13,Loyal Customers
+C0306,201,6,583.3,3,2,3,8,Hibernating
+C0307,18,7,1182.87,5,2,5,12,Potential Loyalist
+C0308,10,5,471.4,5,2,3,10,Potential Loyalist
+C0309,124,6,535.07,4,2,3,9,Potential Loyalist
+C0310,11,5,832.38,5,2,4,11,Potential Loyalist
+C0311,511,1,59.99,1,1,1,3,Lost
+C0312,79,5,290.29,4,2,2,8,Potential Loyalist
+C0313,265,2,412.41,2,1,3,6,Lost
+C0314,12,2,167.98,5,1,1,7,Potential Loyalist
+C0315,122,1,89.97,4,1,1,6,Potential Loyalist
+C0316,257,1,215.96,2,1,2,5,Lost
+C0317,270,1,24.27,2,1,1,4,Lost
+C0318,27,1,441.97,5,1,3,9,Potential Loyalist
+C0319,14,4,505.87,5,1,3,9,Potential Loyalist
+C0320,97,1,189.96,4,1,2,7,Potential Loyalist
+C0321,239,3,172.91,3,1,1,5,Hibernating
+C0322,16,8,2113.74,5,3,5,13,Loyal Customers
+C0323,155,6,375.0,3,2,3,8,Hibernating
+C0324,146,1,166.2,4,1,1,6,Potential Loyalist
+C0325,395,1,74.97,2,1,1,4,Lost
+C0326,10,6,788.86,5,2,4,11,Potential Loyalist
+C0327,139,7,680.8,4,2,4,10,Potential Loyalist
+C0328,46,8,864.07,5,3,5,13,Loyal Customers
+C0329,774,1,94.95,1,1,1,3,Lost
+C0330,71,1,119.98,5,1,1,7,Potential Loyalist
+C0331,8,1,224.96,5,1,2,8,Potential Loyalist
+C0332,107,2,235.95,4,1,2,7,Potential Loyalist
+C0333,19,4,625.43,5,1,4,10,Potential Loyalist
+C0334,48,10,622.73,5,3,4,12,Loyal Customers
+C0335,67,6,778.42,5,2,4,11,Potential Loyalist
+C0336,50,3,488.21,5,1,3,9,Potential Loyalist
+C0337,158,4,935.35,3,1,5,9,Hibernating
+C0338,5,8,577.92,5,3,3,11,Loyal Customers
+C0339,563,1,51.96,1,1,1,3,Lost
+C0340,49,3,134.92,5,1,1,7,Potential Loyalist
+C0342,70,4,211.81,5,1,2,8,Potential Loyalist
+C0343,300,3,270.93,2,1,2,5,Lost
+C0344,75,5,604.27,4,2,4,10,Potential Loyalist
+C0345,67,9,2083.41,5,3,5,13,Loyal Customers
+C0346,35,13,1634.85,5,4,5,14,Champions
+C0347,149,6,333.47,4,2,2,8,Potential Loyalist
+C0348,8,10,1204.95,5,3,5,13,Loyal Customers
+C0349,78,8,2061.72,4,3,5,12,Loyal Customers
+C0350,66,3,689.86,5,1,4,10,Potential Loyalist
+C0351,79,9,1172.48,4,3,5,12,Loyal Customers
+C0352,40,5,217.64,5,2,2,9,Potential Loyalist
+C0353,402,1,59.97,2,1,1,4,Lost
+C0354,144,4,664.89,4,1,4,9,Potential Loyalist
+C0355,284,1,56.99,2,1,1,4,Lost
+C0356,178,5,728.84,3,2,4,9,Hibernating
+C0357,3,3,138.7,5,1,1,7,Potential Loyalist
+C0358,67,8,1230.75,5,3,5,13,Loyal Customers
+C0359,26,7,707.9,5,2,4,11,Potential Loyalist
+C0360,504,1,2.99,1,1,1,3,Lost
+C0361,625,1,25.98,1,1,1,3,Lost
+C0362,270,1,19.99,2,1,1,4,Lost
+C0363,22,2,417.44,5,1,3,9,Potential Loyalist
+C0364,11,2,32.81,5,1,1,7,Potential Loyalist
+C0365,19,8,1093.5,5,3,5,13,Loyal Customers
+C0366,101,1,179.96,4,1,2,7,Potential Loyalist
+C0367,425,1,199.96,2,1,2,5,Lost
+C0368,220,7,1029.3,3,2,5,10,Hibernating
+C0369,93,8,956.75,4,3,5,12,Loyal Customers
+C0370,58,5,832.36,5,2,4,11,Potential Loyalist
+C0371,24,5,1224.26,5,2,5,12,Potential Loyalist
+C0372,5,7,1124.53,5,2,5,12,Potential Loyalist
+C0373,75,2,125.41,4,1,1,6,Potential Loyalist
+C0374,5,11,559.73,5,4,3,12,Loyal Customers
+C0375,7,1,127.46,5,1,1,7,Potential Loyalist
+C0376,30,7,379.74,5,2,3,10,Potential Loyalist
+C0377,38,6,417.04,5,2,3,10,Potential Loyalist
+C0378,1,8,910.82,5,3,5,13,Loyal Customers
+C0379,143,1,94.95,4,1,1,6,Potential Loyalist
+C0380,129,2,127.71,4,1,1,6,Potential Loyalist
+C0381,16,10,1274.91,5,3,5,13,Loyal Customers
+C0382,167,1,30.58,3,1,1,5,Hibernating
+C0383,23,3,277.93,5,1,2,8,Potential Loyalist
+C0384,186,1,47.49,3,1,1,5,Hibernating
+C0385,368,4,543.96,2,1,3,6,Lost
+C0386,26,4,732.86,5,1,4,10,Potential Loyalist
+C0387,56,1,28.48,5,1,1,7,Potential Loyalist
+C0388,82,5,996.79,4,2,5,11,Potential Loyalist
+C0389,228,1,26.98,3,1,1,5,Hibernating
+C0390,4,6,698.83,5,2,4,11,Potential Loyalist
+C0391,31,10,929.12,5,3,5,13,Loyal Customers
+C0392,3,1,125.96,5,1,1,7,Potential Loyalist
+C0393,100,3,587.67,4,1,3,8,Potential Loyalist
+C0394,31,3,600.89,5,1,4,10,Potential Loyalist
+C0395,2,6,702.86,5,2,4,11,Potential Loyalist
+C0396,21,7,801.81,5,2,4,11,Potential Loyalist
+C0397,464,1,80.7,1,1,1,3,Lost
+C0398,23,7,743.29,5,2,4,11,Potential Loyalist
+C0399,39,6,512.82,5,2,3,10,Potential Loyalist
+C0400,367,1,79.96,2,1,1,4,Lost
+C0401,303,4,707.36,2,1,4,7,Lost
+C0402,332,7,626.11,2,2,4,8,Lost
+C0403,5,9,1145.52,5,3,5,13,Loyal Customers
+C0404,532,5,567.83,1,2,3,6,Lost
+C0405,18,4,491.57,5,1,3,9,Potential Loyalist
+C0406,17,4,205.29,5,1,2,8,Potential Loyalist
+C0407,3,7,858.62,5,2,5,12,Potential Loyalist
+C0408,83,5,854.84,4,2,4,10,Potential Loyalist
+C0409,65,2,297.94,5,1,2,8,Potential Loyalist
+C0410,171,5,599.09,3,2,4,9,Hibernating
+C0411,62,1,84.96,5,1,1,7,Potential Loyalist
+C0413,672,1,114.72,1,1,1,3,Lost
+C0414,48,1,74.97,5,1,1,7,Potential Loyalist
+C0415,56,6,599.8,5,2,4,11,Potential Loyalist
+C0416,31,9,1272.46,5,3,5,13,Loyal Customers
+C0417,233,4,267.91,3,1,2,6,Hibernating
+C0418,42,8,801.71,5,3,4,12,Loyal Customers
+C0419,24,8,678.86,5,3,4,12,Loyal Customers
+C0420,22,7,889.83,5,2,5,12,Potential Loyalist
+C0421,3,1,23.38,5,1,1,7,Potential Loyalist
+C0422,58,1,104.97,5,1,1,7,Potential Loyalist
+C0423,234,3,351.88,3,1,2,6,Hibernating
+C0424,22,7,784.07,5,2,4,11,Potential Loyalist
+C0425,221,1,99.96,3,1,1,5,Hibernating
+C0426,62,6,1882.3,5,2,5,12,Potential Loyalist
+C0428,114,7,826.57,4,2,4,10,Potential Loyalist
+C0429,207,3,413.91,3,1,3,7,Hibernating
+C0430,5,3,219.89,5,1,2,8,Potential Loyalist
+C0431,19,1,215.97,5,1,2,8,Potential Loyalist
+C0432,147,1,157.46,4,1,1,6,Potential Loyalist
+C0433,214,2,310.94,3,1,2,6,Hibernating
+C0434,67,4,124.92,5,1,1,7,Potential Loyalist
+C0435,62,6,428.11,5,2,3,10,Potential Loyalist
+C0436,153,6,727.78,4,2,4,10,Potential Loyalist
+C0437,490,1,59.96,1,1,1,3,Lost
+C0438,65,4,420.91,5,1,3,9,Potential Loyalist
+C0439,15,7,525.6,5,2,3,10,Potential Loyalist
+C0440,495,1,119.98,1,1,1,3,Lost
+C0441,30,2,241.2,5,1,2,8,Potential Loyalist
+C0442,99,5,398.84,4,2,3,9,Potential Loyalist
+C0443,35,5,658.03,5,2,4,11,Potential Loyalist
+C0444,19,8,1152.63,5,3,5,13,Loyal Customers
+C0445,13,7,1177.04,5,2,5,12,Potential Loyalist
+C0446,66,3,370.42,5,1,2,8,Potential Loyalist
+C0447,55,8,884.8,5,3,5,13,Loyal Customers
+C0448,137,4,257.64,4,1,2,7,Potential Loyalist
+C0449,4,1,31.18,5,1,1,7,Potential Loyalist
+C0450,52,1,599.96,5,1,4,10,Potential Loyalist
+C0451,270,1,64.95,2,1,1,4,Lost
+C0452,35,2,158.68,5,1,1,7,Potential Loyalist
+C0453,48,8,809.3,5,3,4,12,Loyal Customers
+C0454,31,1,24.99,5,1,1,7,Potential Loyalist
+C0455,91,5,713.85,4,2,4,10,Potential Loyalist
+C0456,56,6,973.83,5,2,5,12,Potential Loyalist
+C0457,94,14,1206.37,4,5,5,14,Champions
+C0458,36,9,850.73,5,3,4,12,Loyal Customers
+C0459,94,1,63.97,4,1,1,6,Potential Loyalist
+C0460,97,6,934.08,4,2,5,11,Potential Loyalist
+C0461,371,3,180.61,2,1,2,5,Lost
+C0462,57,9,1002.98,5,3,5,13,Loyal Customers
+C0463,72,8,1498.25,5,3,5,13,Loyal Customers
+C0464,5,1,199.96,5,1,2,8,Potential Loyalist
+C0465,31,8,1832.48,5,3,5,13,Loyal Customers
+C0466,674,1,399.95,1,1,3,5,Lost
+C0467,160,3,326.9,3,1,2,6,Hibernating
+C0468,327,5,557.03,2,2,3,7,Lost
+C0469,26,1,509.97,5,1,3,9,Potential Loyalist
+C0470,267,1,59.96,2,1,1,4,Lost
+C0471,20,5,302.85,5,2,2,9,Potential Loyalist
+C0472,145,4,461.97,4,1,3,8,Potential Loyalist
+C0473,74,2,305.95,4,1,2,7,Potential Loyalist
+C0474,92,10,996.8,4,3,5,12,Loyal Customers
+C0475,23,9,1040.27,5,3,5,13,Loyal Customers
+C0476,162,8,896.37,3,3,5,11,Loyal Customers
+C0477,26,1,47.99,5,1,1,7,Potential Loyalist
+C0478,625,1,319.96,1,1,2,4,Lost
+C0479,156,8,864.79,3,3,5,11,Loyal Customers
+C0480,61,6,728.29,5,2,4,11,Potential Loyalist
+C0481,165,2,200.46,3,1,2,6,Hibernating
+C0482,124,3,204.9,4,1,2,7,Potential Loyalist
+C0483,230,1,35.99,3,1,1,5,Hibernating
+C0484,215,11,823.36,3,4,4,11,Loyal Customers
+C0485,254,1,269.97,3,1,2,6,Hibernating
+C0486,6,8,522.81,5,3,3,11,Loyal Customers
+C0487,486,1,139.98,1,1,1,3,Lost
+C0488,2,8,284.59,5,3,2,10,Loyal Customers
+C0489,115,1,53.97,4,1,1,6,Potential Loyalist
+C0490,286,1,33.98,2,1,1,4,Lost
+C0491,9,9,787.72,5,3,4,12,Loyal Customers
+C0492,121,4,456.9,4,1,3,8,Potential Loyalist
+C0493,124,6,1289.33,4,2,5,11,Potential Loyalist
+C0494,67,3,99.46,5,1,1,7,Potential Loyalist
+C0495,6,8,545.76,5,3,3,11,Loyal Customers
+C0496,16,9,695.95,5,3,4,12,Loyal Customers
+C0497,121,5,1413.83,4,2,5,11,Potential Loyalist
+C0498,169,1,24.27,3,1,1,5,Hibernating
+C0499,84,9,686.16,4,3,4,11,Loyal Customers
+C0500,119,7,665.25,4,2,4,10,Potential Loyalist
+C0501,304,5,721.12,2,2,4,8,Lost
+C0502,861,1,174.95,1,1,1,3,Lost
+C0503,89,7,1085.56,4,2,5,11,Potential Loyalist
+C0504,68,6,808.56,5,2,4,11,Potential Loyalist
+C0505,101,5,324.39,4,2,2,8,Potential Loyalist
+C0506,73,4,1178.09,4,1,5,10,Potential Loyalist
+C0507,165,1,79.97,3,1,1,5,Hibernating
+C0508,105,4,198.29,4,1,2,7,Potential Loyalist
+C0509,21,1,140.22,5,1,1,7,Potential Loyalist
+C0510,341,1,59.48,2,1,1,4,Lost
+C0511,44,5,712.09,5,2,4,11,Potential Loyalist
+C0512,3,9,1015.67,5,3,5,13,Loyal Customers
+C0513,20,5,818.36,5,2,4,11,Potential Loyalist
+C0514,730,1,22.49,1,1,1,3,Lost
+C0515,36,1,12.99,5,1,1,7,Potential Loyalist
+C0516,207,4,518.88,3,1,3,7,Hibernating
+C0517,284,6,448.65,2,2,3,7,Lost
+C0518,30,11,1588.02,5,4,5,14,Champions
+C0519,3,5,685.87,5,2,4,11,Potential Loyalist
+C0520,175,5,493.1,3,2,3,8,Hibernating
+C0521,40,4,294.12,5,1,2,8,Potential Loyalist
+C0522,157,1,54.99,3,1,1,5,Hibernating
+C0523,11,4,747.64,5,1,4,10,Potential Loyalist
+C0524,24,4,374.89,5,1,3,9,Potential Loyalist
+C0525,30,5,606.88,5,2,4,11,Potential Loyalist
+C0526,51,10,1615.68,5,3,5,13,Loyal Customers
+C0527,22,3,302.92,5,1,2,8,Potential Loyalist
+C0528,103,6,564.55,4,2,3,9,Potential Loyalist
+C0529,395,1,161.97,2,1,1,4,Lost
+C0530,6,3,731.91,5,1,4,10,Potential Loyalist
+C0531,78,1,54.99,4,1,1,6,Potential Loyalist
+C0532,18,4,476.88,5,1,3,9,Potential Loyalist
+C0533,40,4,574.87,5,1,3,9,Potential Loyalist
+C0534,29,6,635.85,5,2,4,11,Potential Loyalist
+C0536,58,2,283.95,5,1,2,8,Potential Loyalist
+C0537,35,12,916.39,5,4,5,14,Champions
+C0538,70,6,706.15,5,2,4,11,Potential Loyalist
+C0539,298,2,314.94,2,1,2,5,Lost
+C0540,296,8,742.28,2,3,4,9,At Risk
+C0541,69,6,384.38,5,2,3,10,Potential Loyalist
+C0542,475,1,149.95,1,1,1,3,Lost
+C0543,392,5,514.83,2,2,3,7,Lost
+C0544,23,7,616.31,5,2,4,11,Potential Loyalist
+C0545,90,4,221.16,4,1,2,7,Potential Loyalist
+C0546,41,6,912.56,5,2,5,12,Potential Loyalist
+C0547,121,5,255.9,4,2,2,8,Potential Loyalist
+C0548,188,6,823.55,3,2,4,9,Hibernating
+C0549,74,4,437.88,4,1,3,8,Potential Loyalist
+C0550,362,1,71.99,2,1,1,4,Lost
+C0551,218,1,38.97,3,1,1,5,Hibernating
+C0552,4,2,268.47,5,1,2,8,Potential Loyalist
+C0553,20,8,1319.46,5,3,5,13,Loyal Customers
+C0554,4,4,279.87,5,1,2,8,Potential Loyalist
+C0555,38,4,459.89,5,1,3,9,Potential Loyalist
+C0556,1,13,979.15,5,4,5,14,Champions
+C0557,365,1,13.49,2,1,1,4,Lost
+C0558,111,6,601.05,4,2,4,10,Potential Loyalist
+C0559,211,6,603.85,3,2,4,9,Hibernating
+C0560,12,4,504.64,5,1,3,9,Potential Loyalist
+C0561,55,1,124.95,5,1,1,7,Potential Loyalist
+C0562,129,11,1554.13,4,4,5,13,Champions
+C0563,1,11,1161.25,5,4,5,14,Champions
+C0564,78,4,516.3,4,1,3,8,Potential Loyalist
+C0565,206,6,668.33,3,2,4,9,Hibernating
+C0566,196,1,89.96,3,1,1,5,Hibernating
+C0567,14,7,544.3,5,2,3,10,Potential Loyalist
+C0568,24,8,659.48,5,3,4,12,Loyal Customers
+C0569,24,8,780.34,5,3,4,12,Loyal Customers
+C0570,79,4,238.11,4,1,2,7,Potential Loyalist
+C0571,4,6,315.37,5,2,2,9,Potential Loyalist
+C0572,421,5,336.86,2,2,2,6,Lost
+C0573,12,1,256.47,5,1,2,8,Potential Loyalist
+C0574,351,3,315.89,2,1,2,5,Lost
+C0575,874,1,179.96,1,1,2,4,Lost
+C0576,150,1,67.96,4,1,1,6,Potential Loyalist
+C0578,30,8,854.98,5,3,4,12,Loyal Customers
+C0579,18,7,1136.68,5,2,5,12,Potential Loyalist
+C0580,107,6,373.35,4,2,3,9,Potential Loyalist
+C0581,36,4,745.65,5,1,4,10,Potential Loyalist
+C0582,40,5,294.85,5,2,2,9,Potential Loyalist
+C0583,2,1,151.98,5,1,1,7,Potential Loyalist
+C0584,60,12,814.29,5,4,4,13,Champions
+C0585,56,8,657.33,5,3,4,12,Loyal Customers
+C0586,45,7,1132.78,5,2,5,12,Potential Loyalist
+C0587,939,1,174.95,1,1,1,3,Lost
+C0588,2,8,1165.68,5,3,5,13,Loyal Customers
+C0589,16,4,217.9,5,1,2,8,Potential Loyalist
+C0590,139,5,531.36,4,2,3,9,Potential Loyalist
+C0591,12,11,1293.52,5,4,5,14,Champions
+C0592,375,4,257.19,2,1,2,5,Lost
+C0593,100,1,15.99,4,1,1,6,Potential Loyalist
+C0594,183,2,48.97,3,1,1,5,Hibernating
+C0595,160,9,857.75,3,3,4,10,Loyal Customers
+C0596,277,1,219.96,2,1,2,5,Lost
+C0597,173,1,63.99,3,1,1,5,Hibernating
+C0598,23,10,851.24,5,3,4,12,Loyal Customers
+C0599,21,10,1245.01,5,3,5,13,Loyal Customers
+C0600,92,7,575.9,4,2,3,9,Potential Loyalist
+C0601,291,1,159.97,2,1,1,4,Lost
+C0602,5,4,735.37,5,1,4,10,Potential Loyalist
+C0603,741,2,208.92,1,1,2,4,Lost
+C0604,13,2,249.95,5,1,2,8,Potential Loyalist
+C0605,17,3,777.39,5,1,4,10,Potential Loyalist
+C0606,74,4,432.86,4,1,3,8,Potential Loyalist
+C0607,111,8,978.22,4,3,5,12,Loyal Customers
+C0608,342,4,429.92,2,1,3,6,Lost
+C0609,464,5,767.89,1,2,4,7,Lost
+C0610,47,1,127.47,5,1,1,7,Potential Loyalist
+C0611,165,5,271.38,3,2,2,7,Hibernating
+C0612,52,4,403.79,5,1,3,9,Potential Loyalist
+C0613,250,1,41.57,3,1,1,5,Hibernating
+C0614,129,11,1352.9,4,4,5,13,Champions
+C0615,49,10,1332.66,5,3,5,13,Loyal Customers
+C0616,21,7,545.96,5,2,3,10,Potential Loyalist
+C0617,62,3,679.88,5,1,4,10,Potential Loyalist
+C0618,75,1,71.96,4,1,1,6,Potential Loyalist
+C0619,76,6,802.83,4,2,4,10,Potential Loyalist
+C0620,259,5,700.9,2,2,4,8,Lost
+C0621,274,4,820.83,2,1,4,7,Lost
+C0622,104,7,614.62,4,2,4,10,Potential Loyalist
+C0623,129,4,255.89,4,1,2,7,Potential Loyalist
+C0624,960,1,48.42,1,1,1,3,Lost
+C0625,13,6,593.31,5,2,3,10,Potential Loyalist
+C0626,20,7,336.33,5,2,2,9,Potential Loyalist
+C0627,55,2,122.96,5,1,1,7,Potential Loyalist
+C0628,23,7,1189.01,5,2,5,12,Potential Loyalist
+C0629,120,11,929.93,4,4,5,13,Champions
+C0630,86,7,329.66,4,2,2,8,Potential Loyalist
+C0631,20,3,339.27,5,1,2,8,Potential Loyalist
+C0633,31,6,906.56,5,2,5,12,Potential Loyalist
+C0634,4,5,440.17,5,2,3,10,Potential Loyalist
+C0635,659,1,33.98,1,1,1,3,Lost
+C0636,21,4,278.09,5,1,2,8,Potential Loyalist
+C0637,53,6,876.31,5,2,5,12,Potential Loyalist
+C0638,391,1,124.95,2,1,1,4,Lost
+C0639,44,10,1293.21,5,3,5,13,Loyal Customers
+C0640,174,6,407.88,3,2,3,8,Hibernating
+C0641,158,5,785.88,3,2,4,9,Hibernating
+C0642,192,1,53.97,3,1,1,5,Hibernating
+C0643,138,3,191.93,4,1,2,7,Potential Loyalist
+C0644,27,4,742.89,5,1,4,10,Potential Loyalist
+C0645,417,1,14.44,2,1,1,4,Lost
+C0646,85,5,519.1,4,2,3,9,Potential Loyalist
+C0647,14,1,349.95,5,1,2,8,Potential Loyalist
+C0649,22,9,1708.97,5,3,5,13,Loyal Customers
+C0650,20,9,1137.53,5,3,5,13,Loyal Customers
+C0651,16,4,582.88,5,1,3,9,Potential Loyalist
+C0652,617,1,38.22,1,1,1,3,Lost
+C0653,62,2,164.94,5,1,1,7,Potential Loyalist
+C0654,478,2,199.31,1,1,2,4,Lost
+C0655,346,1,79.96,2,1,1,4,Lost
+C0656,8,10,781.85,5,3,4,12,Loyal Customers
+C0657,29,9,476.82,5,3,3,11,Loyal Customers
+C0658,36,6,645.41,5,2,4,11,Potential Loyalist
+C0659,60,2,219.92,5,1,2,8,Potential Loyalist
+C0660,324,1,62.98,2,1,1,4,Lost
+C0661,128,6,569.3,4,2,3,9,Potential Loyalist
+C0662,292,2,76.33,2,1,1,4,Lost
+C0663,10,8,1590.03,5,3,5,13,Loyal Customers
+C0664,14,7,1004.02,5,2,5,12,Potential Loyalist
+C0665,166,1,44.97,3,1,1,5,Hibernating
+C0666,13,3,100.94,5,1,1,7,Potential Loyalist
+C0667,59,1,29.98,5,1,1,7,Potential Loyalist
+C0668,87,1,79.96,4,1,1,6,Potential Loyalist
+C0669,486,1,249.95,1,1,2,4,Lost
+C0670,54,5,653.85,5,2,4,11,Potential Loyalist
+C0671,31,2,151.18,5,1,1,7,Potential Loyalist
+C0672,35,4,959.86,5,1,5,11,Potential Loyalist
+C0673,501,1,56.97,1,1,1,3,Lost
+C0674,11,6,377.17,5,2,3,10,Potential Loyalist
+C0675,189,5,729.55,3,2,4,9,Hibernating
+C0676,18,10,1079.5,5,3,5,13,Loyal Customers
+C0677,190,1,84.98,3,1,1,5,Hibernating
+C0678,41,7,495.81,5,2,3,10,Potential Loyalist
+C0679,83,8,525.06,4,3,3,10,Loyal Customers
+C0680,587,1,8.09,1,1,1,3,Lost
+C0681,26,5,233.39,5,2,2,9,Potential Loyalist
+C0682,17,9,1227.6,5,3,5,13,Loyal Customers
+C0683,216,7,688.82,3,2,4,9,Hibernating
+C0684,82,6,904.8,4,2,5,11,Potential Loyalist
+C0685,43,8,316.43,5,3,2,10,Loyal Customers
+C0686,2,7,674.54,5,2,4,11,Potential Loyalist
+C0687,31,7,443.46,5,2,3,10,Potential Loyalist
+C0688,230,3,107.46,3,1,1,5,Hibernating
+C0689,30,7,1500.57,5,2,5,12,Potential Loyalist
+C0690,43,4,174.15,5,1,1,7,Potential Loyalist
+C0691,958,1,319.96,1,1,2,4,Lost
+C0692,127,5,665.33,4,2,4,10,Potential Loyalist
+C0693,202,7,623.61,3,2,4,9,Hibernating
+C0694,495,8,938.97,1,3,5,9,At Risk
+C0695,153,1,199.95,4,1,2,7,Potential Loyalist
+C0696,3,7,418.83,5,2,3,10,Potential Loyalist
+C0697,36,3,359.91,5,1,2,8,Potential Loyalist
+C0698,285,1,139.98,2,1,1,4,Lost
+C0699,4,6,479.09,5,2,3,10,Potential Loyalist
+C0700,76,6,465.37,4,2,3,9,Potential Loyalist
+C0701,23,9,645.12,5,3,4,12,Loyal Customers
+C0702,262,5,574.8,2,2,3,7,Lost
+C0703,129,7,543.09,4,2,3,9,Potential Loyalist
+C0704,33,7,2109.75,5,2,5,12,Potential Loyalist
+C0705,75,10,829.98,4,3,4,11,Loyal Customers
+C0706,29,9,1381.73,5,3,5,13,Loyal Customers
+C0707,1,8,458.33,5,3,3,11,Loyal Customers
+C0708,7,6,1062.31,5,2,5,12,Potential Loyalist
+C0709,35,7,825.06,5,2,4,11,Potential Loyalist
+C0710,119,2,481.93,4,1,3,8,Potential Loyalist
+C0711,266,1,203.97,2,1,2,5,Lost
+C0712,65,5,566.36,5,2,3,10,Potential Loyalist
+C0714,47,8,1311.48,5,3,5,13,Loyal Customers
+C0715,47,4,200.38,5,1,2,8,Potential Loyalist
+C0716,9,3,363.53,5,1,2,8,Potential Loyalist
+C0717,104,1,44.17,4,1,1,6,Potential Loyalist
+C0718,18,8,675.58,5,3,4,12,Loyal Customers
+C0719,37,4,403.89,5,1,3,9,Potential Loyalist
+C0720,33,9,1253.64,5,3,5,13,Loyal Customers
+C0721,76,3,150.54,4,1,1,6,Potential Loyalist
+C0722,18,5,929.82,5,2,5,12,Potential Loyalist
+C0723,906,1,44.97,1,1,1,3,Lost
+C0724,8,9,1134.74,5,3,5,13,Loyal Customers
+C0725,8,10,1210.64,5,3,5,13,Loyal Customers
+C0726,127,10,987.78,4,3,5,12,Loyal Customers
+C0727,423,4,561.85,2,1,3,6,Lost
+C0728,47,1,249.95,5,1,2,8,Potential Loyalist
+C0729,134,5,643.1,4,2,4,10,Potential Loyalist
+C0730,33,5,537.05,5,2,3,10,Potential Loyalist
+C0731,126,1,37.98,4,1,1,6,Potential Loyalist
+C0732,5,5,1522.32,5,2,5,12,Potential Loyalist
+C0733,15,6,568.6,5,2,3,10,Potential Loyalist
+C0734,160,3,91.45,3,1,1,5,Hibernating
+C0735,10,8,1119.29,5,3,5,13,Loyal Customers
+C0736,101,3,764.89,4,1,4,9,Potential Loyalist
+C0737,37,7,702.8,5,2,4,11,Potential Loyalist
+C0738,38,7,997.82,5,2,5,12,Potential Loyalist
+C0739,215,5,308.41,3,2,2,7,Hibernating
+C0740,127,4,212.37,4,1,2,7,Potential Loyalist
+C0741,41,3,547.89,5,1,3,9,Potential Loyalist
+C0742,5,2,203.95,5,1,2,8,Potential Loyalist
+C0743,1,10,813.9,5,3,4,12,Loyal Customers
+C0744,6,8,804.04,5,3,4,12,Loyal Customers
+C0745,1,10,1088.59,5,3,5,13,Loyal Customers
+C0746,49,8,824.77,5,3,4,12,Loyal Customers
+C0747,47,5,424.78,5,2,3,10,Potential Loyalist
+C0748,269,6,606.78,2,2,4,8,Lost
+C0749,26,8,1143.91,5,3,5,13,Loyal Customers
+C0750,14,2,188.96,5,1,2,8,Potential Loyalist
+C0751,10,8,780.48,5,3,4,12,Loyal Customers
+C0752,275,6,1179.83,2,2,5,9,Lost
+C0753,4,4,509.92,5,1,3,9,Potential Loyalist
+C0754,463,3,283.89,1,1,2,4,Lost
+C0755,5,11,944.19,5,4,5,14,Champions
+C0756,61,3,229.92,5,1,2,8,Potential Loyalist
+C0757,312,1,9.57,2,1,1,4,Lost
+C0758,341,3,313.95,2,1,2,5,Lost
+C0759,51,7,747.25,5,2,4,11,Potential Loyalist
+C0760,661,2,267.94,1,1,2,4,Lost
+C0761,15,3,279.92,5,1,2,8,Potential Loyalist
+C0762,21,2,290.96,5,1,2,8,Potential Loyalist
+C0763,1,12,1157.74,5,4,5,14,Champions
+C0764,927,1,69.98,1,1,1,3,Lost
+C0765,67,8,970.0,5,3,5,13,Loyal Customers
+C0766,52,5,560.6,5,2,3,10,Potential Loyalist
+C0767,36,7,973.52,5,2,5,12,Potential Loyalist
+C0768,44,4,445.89,5,1,3,9,Potential Loyalist
+C0769,116,6,508.03,4,2,3,9,Potential Loyalist
+C0770,95,5,371.91,4,2,2,8,Potential Loyalist
+C0771,359,1,24.99,2,1,1,4,Lost
+C0772,12,9,444.43,5,3,3,11,Loyal Customers
+C0773,347,1,179.97,2,1,2,5,Lost
+C0774,21,1,149.97,5,1,1,7,Potential Loyalist
+C0775,321,2,253.96,2,1,2,5,Lost
+C0776,416,2,354.97,2,1,2,5,Lost
+C0777,29,5,418.87,5,2,3,10,Potential Loyalist
+C0778,67,10,1595.66,5,3,5,13,Loyal Customers
+C0779,276,7,519.36,2,2,3,7,Lost
+C0780,11,6,298.3,5,2,2,9,Potential Loyalist
+C0781,481,1,63.72,1,1,1,3,Lost
+C0782,383,1,66.49,2,1,1,4,Lost
+C0783,20,8,1162.52,5,3,5,13,Loyal Customers
+C0784,20,1,24.99,5,1,1,7,Potential Loyalist
+C0785,72,8,1405.95,5,3,5,13,Loyal Customers
+C0786,11,3,172.92,5,1,1,7,Potential Loyalist
+C0787,125,7,634.76,4,2,4,10,Potential Loyalist
+C0788,195,3,161.94,3,1,1,5,Hibernating
+C0789,500,1,5.98,1,1,1,3,Lost
+C0791,63,3,184.15,5,1,2,8,Potential Loyalist
+C0792,77,11,990.98,4,4,5,13,Champions
+C0793,47,5,478.38,5,2,3,10,Potential Loyalist
+C0794,679,1,74.95,1,1,1,3,Lost
+C0795,190,5,422.87,3,2,3,8,Hibernating
+C0796,31,11,728.22,5,4,4,13,Champions
+C0797,186,1,261.2,3,1,2,6,Hibernating
+C0798,237,5,439.58,3,2,3,8,Hibernating
+C0799,1,7,1211.78,5,2,5,12,Potential Loyalist
+C0800,115,4,707.88,4,1,4,9,Potential Loyalist
+C0801,1,5,397.24,5,2,3,10,Potential Loyalist
+C0802,48,4,519.9,5,1,3,9,Potential Loyalist
+C0803,32,1,203.97,5,1,2,8,Potential Loyalist
+C0804,492,3,384.41,1,1,3,5,Lost
+C0805,336,1,83.98,2,1,1,4,Lost
+C0806,5,1,255.97,5,1,2,8,Potential Loyalist
+C0807,1,8,661.87,5,3,4,12,Loyal Customers
+C0808,167,3,596.9,3,1,3,7,Hibernating
+C0809,86,8,1423.71,4,3,5,12,Loyal Customers
+C0810,36,8,1142.55,5,3,5,13,Loyal Customers
+C0811,664,1,118.7,1,1,1,3,Lost
+C0812,133,4,370.1,4,1,2,7,Potential Loyalist
+C0813,153,1,339.96,4,1,2,7,Potential Loyalist
+C0814,323,1,47.99,2,1,1,4,Lost
+C0815,29,8,483.79,5,3,3,11,Loyal Customers
+C0816,76,9,1247.48,4,3,5,12,Loyal Customers
+C0817,149,6,687.85,4,2,4,10,Potential Loyalist
+C0818,276,1,31.18,2,1,1,4,Lost
+C0819,155,1,24.99,3,1,1,5,Hibernating
+C0820,171,4,586.38,3,1,3,7,Hibernating
+C0821,20,3,363.4,5,1,2,8,Potential Loyalist
+C0822,18,2,166.18,5,1,1,7,Potential Loyalist
+C0823,31,3,335.91,5,1,2,8,Potential Loyalist
+C0824,65,9,446.03,5,3,3,11,Loyal Customers
+C0825,181,5,248.73,3,2,2,7,Hibernating
+C0826,347,3,285.66,2,1,2,5,Lost
+C0827,92,7,1025.73,4,2,5,11,Potential Loyalist
+C0828,295,2,107.97,2,1,1,4,Lost
+C0829,25,6,463.35,5,2,3,10,Potential Loyalist
+C0830,21,13,676.95,5,4,4,13,Champions
+C0831,93,8,456.13,4,3,3,10,Loyal Customers
+C0832,9,6,959.51,5,2,5,12,Potential Loyalist
+C0833,207,2,234.53,3,1,2,6,Hibernating
+C0834,26,1,14.24,5,1,1,7,Potential Loyalist
+C0835,77,3,231.18,4,1,2,7,Potential Loyalist
+C0836,322,2,501.94,2,1,3,6,Lost
+C0837,153,1,119.99,4,1,1,6,Potential Loyalist
+C0838,7,7,1123.76,5,2,5,12,Potential Loyalist
+C0839,4,9,734.49,5,3,4,12,Loyal Customers
+C0840,637,1,186.97,1,1,2,4,Lost
+C0841,35,8,929.24,5,3,5,13,Loyal Customers
+C0842,75,7,790.04,4,2,4,10,Potential Loyalist
+C0843,74,3,799.86,4,1,4,9,Potential Loyalist
+C0844,54,8,1040.23,5,3,5,13,Loyal Customers
+C0845,118,1,67.45,4,1,1,6,Potential Loyalist
+C0846,296,1,99.95,2,1,1,4,Lost
+C0847,67,1,19.98,5,1,1,7,Potential Loyalist
+C0848,89,5,725.35,4,2,4,10,Potential Loyalist
+C0849,21,11,1202.65,5,4,5,14,Champions
+C0850,10,8,602.27,5,3,4,12,Loyal Customers
+C0851,5,3,401.09,5,1,3,9,Potential Loyalist
+C0852,480,1,71.22,1,1,1,3,Lost
+C0853,92,2,170.68,4,1,1,6,Potential Loyalist
+C0854,70,1,134.97,5,1,1,7,Potential Loyalist
+C0855,74,9,1626.43,4,3,5,12,Loyal Customers
+C0856,19,5,399.54,5,2,3,10,Potential Loyalist
+C0857,158,1,8.99,3,1,1,5,Hibernating
+C0858,4,10,964.07,5,3,5,13,Loyal Customers
+C0859,95,1,121.47,4,1,1,6,Potential Loyalist
+C0860,143,2,207.93,4,1,2,7,Potential Loyalist
+C0861,93,5,1119.85,4,2,5,11,Potential Loyalist
+C0862,73,15,2753.13,4,5,5,14,Champions
+C0863,25,1,712.45,5,1,4,10,Potential Loyalist
+C0864,95,1,99.96,4,1,1,6,Potential Loyalist
+C0865,7,7,623.28,5,2,4,11,Potential Loyalist
+C0866,51,4,343.78,5,1,2,8,Potential Loyalist
+C0867,35,3,211.99,5,1,2,8,Potential Loyalist
+C0868,352,1,124.95,2,1,1,4,Lost
+C0869,256,2,64.86,3,1,1,5,Hibernating
+C0870,120,4,587.93,4,1,3,8,Potential Loyalist
+C0871,130,3,234.52,4,1,2,7,Potential Loyalist
+C0872,64,9,1269.23,5,3,5,13,Loyal Customers
+C0873,712,1,319.96,1,1,2,4,Lost
+C0874,132,7,622.05,4,2,4,10,Potential Loyalist
+C0875,209,1,53.97,3,1,1,5,Hibernating
+C0876,251,5,382.83,3,2,3,8,Hibernating
+C0877,243,5,676.09,3,2,4,9,Hibernating
+C0878,588,1,271.97,1,1,2,4,Lost
+C0879,122,5,534.85,4,2,3,9,Potential Loyalist
+C0880,108,11,743.5,4,4,4,12,Champions
+C0881,44,5,888.8,5,2,5,12,Potential Loyalist
+C0882,319,1,16.14,2,1,1,4,Lost
+C0883,37,11,949.58,5,4,5,14,Champions
+C0884,177,1,311.98,3,1,2,6,Hibernating
+C0885,702,1,119.98,1,1,1,3,Lost
+C0886,154,3,325.91,4,1,2,7,Potential Loyalist
+C0887,191,4,414.1,3,1,3,7,Hibernating
+C0888,116,1,42.74,4,1,1,6,Potential Loyalist
+C0889,329,5,191.89,2,2,2,6,Lost
+C0890,291,1,49.98,2,1,1,4,Lost
+C0891,20,4,650.6,5,1,4,10,Potential Loyalist
+C0892,40,8,728.83,5,3,4,12,Loyal Customers
+C0893,198,7,393.6,3,2,3,8,Hibernating
+C0894,99,3,393.53,4,1,3,8,Potential Loyalist
+C0895,76,10,1094.75,4,3,5,12,Loyal Customers
+C0896,477,1,27.99,1,1,1,3,Lost
+C0897,25,6,713.84,5,2,4,11,Potential Loyalist
+C0898,12,10,1281.94,5,3,5,13,Loyal Customers
+C0899,807,1,74.97,1,1,1,3,Lost
+C0900,737,1,89.96,1,1,1,3,Lost
+C0901,10,7,542.49,5,2,3,10,Potential Loyalist
+C0902,160,5,735.86,3,2,4,9,Hibernating
+C0903,47,7,549.59,5,2,3,10,Potential Loyalist
+C0904,107,5,407.97,4,2,3,9,Potential Loyalist
+C0905,236,1,14.99,3,1,1,5,Hibernating
+C0906,84,3,371.94,4,1,2,7,Potential Loyalist
+C0907,24,4,820.88,5,1,4,10,Potential Loyalist
+C0908,37,6,387.89,5,2,3,10,Potential Loyalist
+C0909,22,13,2711.65,5,4,5,14,Champions
+C0910,45,8,703.52,5,3,4,12,Loyal Customers
+C0911,72,2,754.95,5,1,4,10,Potential Loyalist
+C0912,198,2,251.56,3,1,2,6,Hibernating
+C0913,706,1,156.72,1,1,1,3,Lost
+C0914,279,1,99.98,2,1,1,4,Lost
+C0915,16,5,553.34,5,2,3,10,Potential Loyalist
+C0916,26,5,488.34,5,2,3,10,Potential Loyalist
+C0917,110,2,151.93,4,1,1,6,Potential Loyalist
+C0918,62,6,234.45,5,2,2,9,Potential Loyalist
+C0919,5,2,131.95,5,1,1,7,Potential Loyalist
+C0920,22,11,911.1,5,4,5,14,Champions
+C0921,195,5,551.84,3,2,3,8,Hibernating
+C0922,528,6,726.0,1,2,4,7,Lost
+C0923,7,6,729.48,5,2,4,11,Potential Loyalist
+C0924,166,1,339.96,3,1,2,6,Hibernating
+C0925,14,9,981.96,5,3,5,13,Loyal Customers
+C0926,49,5,309.8,5,2,2,9,Potential Loyalist
+C0927,83,3,417.44,4,1,3,8,Potential Loyalist
+C0928,206,1,67.96,3,1,1,5,Hibernating
+C0929,226,8,760.14,3,3,4,10,Loyal Customers
+C0930,201,4,240.81,3,1,2,6,Hibernating
+C0931,2,8,621.15,5,3,4,12,Loyal Customers
+C0932,132,8,1087.82,4,3,5,12,Loyal Customers
+C0933,82,4,440.27,4,1,3,8,Potential Loyalist
+C0934,49,9,865.51,5,3,5,13,Loyal Customers
+C0935,97,2,419.95,4,1,3,8,Potential Loyalist
+C0936,806,2,241.96,1,1,2,4,Lost
+C0937,11,10,1507.37,5,3,5,13,Loyal Customers
+C0938,165,7,948.71,3,2,5,10,Hibernating
+C0939,150,10,1187.19,4,3,5,12,Loyal Customers
+C0940,3,3,395.9,5,1,3,9,Potential Loyalist
+C0941,12,10,1168.41,5,3,5,13,Loyal Customers
+C0942,118,10,1150.92,4,3,5,12,Loyal Customers
+C0943,32,1,207.98,5,1,2,8,Potential Loyalist
+C0944,100,8,738.37,4,3,4,11,Loyal Customers
+C0945,79,7,426.72,4,2,3,9,Potential Loyalist
+C0946,36,7,914.31,5,2,5,12,Potential Loyalist
+C0947,100,6,471.84,4,2,3,9,Potential Loyalist
+C0948,1,5,482.12,5,2,3,10,Potential Loyalist
+C0949,467,1,152.97,1,1,1,3,Lost
+C0950,350,3,215.62,2,1,2,5,Lost
+C0951,138,4,264.89,4,1,2,7,Potential Loyalist
+C0952,13,3,197.37,5,1,2,8,Potential Loyalist
+C0953,130,1,12.74,4,1,1,6,Potential Loyalist
+C0954,18,7,682.82,5,2,4,11,Potential Loyalist
+C0955,64,1,62.98,5,1,1,7,Potential Loyalist
+C0956,106,3,314.92,4,1,2,7,Potential Loyalist
+C0957,409,2,276.46,2,1,2,5,Lost
+C0958,485,1,89.95,1,1,1,3,Lost
+C0959,311,6,819.0,2,2,4,8,Lost
+C0960,23,7,364.11,5,2,2,9,Potential Loyalist
+C0961,533,2,443.92,1,1,3,5,Lost
+C0962,248,5,481.86,3,2,3,8,Hibernating
+C0963,481,4,400.21,1,1,3,5,Lost
+C0964,212,1,188.97,3,1,2,6,Hibernating
+C0965,9,11,741.36,5,4,4,13,Champions
+C0966,86,1,247.45,4,1,2,7,Potential Loyalist
+C0967,276,6,919.81,2,2,5,9,Lost
+C0968,39,1,199.96,5,1,2,8,Potential Loyalist
+C0969,494,1,94.96,1,1,1,3,Lost
+C0970,336,1,33.99,2,1,1,4,Lost
+C0971,52,5,538.38,5,2,3,10,Potential Loyalist
+C0972,15,10,706.99,5,3,4,12,Loyal Customers
+C0973,2,7,510.39,5,2,3,10,Potential Loyalist
+C0974,19,7,1093.76,5,2,5,12,Potential Loyalist
+C0975,50,8,873.29,5,3,5,13,Loyal Customers
+C0976,96,5,438.64,4,2,3,9,Potential Loyalist
+C0977,45,2,151.44,5,1,1,7,Potential Loyalist
+C0978,412,1,59.97,2,1,1,4,Lost
+C0979,24,13,1389.51,5,4,5,14,Champions
+C0980,2,8,698.93,5,3,4,12,Loyal Customers
+C0981,108,1,59.98,4,1,1,6,Potential Loyalist
+C0982,25,2,522.69,5,1,3,9,Potential Loyalist
+C0983,50,3,650.4,5,1,4,10,Potential Loyalist
+C0984,194,6,777.34,3,2,4,9,Hibernating
+C0985,48,7,718.09,5,2,4,11,Potential Loyalist
+C0986,14,9,633.42,5,3,4,12,Loyal Customers
+C0987,7,1,319.96,5,1,2,8,Potential Loyalist
+C0988,37,1,50.99,5,1,1,7,Potential Loyalist
+C0989,46,5,502.86,5,2,3,10,Potential Loyalist
+C0990,4,6,598.88,5,2,3,10,Potential Loyalist
+C0991,9,5,846.85,5,2,4,11,Potential Loyalist
+C0992,114,3,335.9,4,1,2,7,Potential Loyalist
+C0993,3,1,50.99,5,1,1,7,Potential Loyalist
+C0994,499,2,165.95,1,1,1,3,Lost
+C0995,133,7,677.99,4,2,4,10,Potential Loyalist
+C0996,4,1,25.48,5,1,1,7,Potential Loyalist
+C0997,172,3,379.66,3,1,3,7,Hibernating
+C0998,53,4,374.39,5,1,3,9,Potential Loyalist
+C0999,91,11,1362.91,4,4,5,13,Champions
+C1000,527,1,41.57,1,1,1,3,Lost
