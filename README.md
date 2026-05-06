@@ -2,7 +2,6 @@
 
 **Tools:** Python · SQL · Power BI
 **Domain:** E-Commerce / Retail Analytics
-**Level:** Intermediate
 
 ---
 
